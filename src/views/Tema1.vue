@@ -171,6 +171,32 @@
 
           .col-md-7.mb-4.mb-md-0
             p.mb-4 La oferta y la demanda de bienes o servicios contemplan unos factores o condiciones que se comparan en la siguiente matriz:
+            .tabla-a.color-acento-botones.mb-5 
+              table
+                caption Leyenda de la tabla
+                thead
+                  tr
+                    th Oferta
+                    th Demanda
+                tbody
+                  tr
+                    td Cambio tecnológico
+                    td Valor de venta
+                  tr
+                    td Costos
+                    td Poder adquisitivo de los consumidores
+                  tr
+                    td Expectativas
+                    td El precio de bienes similares o semejantes
+                  tr
+                    td Bienes relacionados
+                    td Los gustos de los consumidores
+                  tr
+                    td Medio ambiente
+                    td El público
+                  tr
+                    td Competencia
+                    td Los intereses del público
             
     .titulo-principal1.color-acento-contenido.mb-5
       .titulo-principal1__numero
@@ -181,65 +207,93 @@
 
     .row.mb-0
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8
+              h5 Principio 1
+              p Si la demanda aumenta (se desplaza hacia la derecha), entonces el precio sube y la cantidad sube.
+
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8
+              h5 Principio 2
+              p Si la demanda disminuye (se desplaza hacia la izquierda), el precio baja y la cantidad baja.
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon3.png', alt='icono')
             .col-lg-8
+              h5 Principio 3
+              p Si la oferta disminuye (se desplaza hacia la izquierda), el precio sube y la cantidad baja.
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon4.png', alt='icono')
             .col-lg-8
+              h5 Principio 4
+              p Si la oferta aumenta (se desplaza hacia la derecha), el precio baja, la cantidad sube.
       
     .row.mb-4
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8
+              h5 Principio 5
+              p Si la demanda aumenta, la oferta disminuye, el precio sube, el cambio en la cantidad es indeterminado.
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8
+              h5 Principio 6
+              p Si la demanda disminuye, la oferta aumenta, el precio baja y el cambio en la cantidad es indeterminado.
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8
+              h5 Principio 7
+              p Si la demanda aumenta, la oferta aumenta, el cambio en el precio es indeterminado y la cantidad sube.
 
       .col-md-3
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-3
+        .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0 
+            .col-lg-4.mb-2.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8
+              h5 Principio 8
+              p Si la demanda disminuye, la oferta disminuye, el cambio en el precio es indeterminado y la cantidad disminuye.
 
 
     #t_1_3.titulo-segundo.color-acento-contenido
       .h4 1.3	Actividades económicas
+
+
+
 
     #t_1_4.titulo-segundo.color-acento-contenido
       .h4 1.4	Métodos de compra de mercancías

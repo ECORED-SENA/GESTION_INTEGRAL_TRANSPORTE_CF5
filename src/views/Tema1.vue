@@ -473,6 +473,134 @@
           p.text-center 1m3 = 2.5 Toneladas
 
     .row.mb-4 
+      .col-md-7
+        .titulo-principal1.color-acento-contenido.mb-5
+          .titulo-principal1__numero
+            span 
+          h3.mb-0 Segundo criterio
+
+        p.mb-4 La clasificación se realiza según el tipo de mercancía, organizada por tipos versus modos de transporte:
+
+        .tarjeta.color-1.p-2.p-md-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-md-2
+              img(src="@/assets/curso/tema1/icon6.png")
+            .col-md-10
+              a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-pdf.svg")
+                .anexo__texto
+                  p Anexo. Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias
+
+      .col-md-5
+        figure  
+          img(src='@/assets/curso/tema1/img3.jpg', alt='icono')
+
+    .titulo-principal1.color-acento-contenido.mb-5
+      .titulo-principal1__numero
+        span 
+      h3.mb-0 Tercer criterio
+
+    p.mb-4 Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases
+
+    .row.mb-2
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/1.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 1:
+              p Materias y objetos explosivos
+
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/2.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 2:
+              p Gases
+
+      .col-sm-8.col-lg-4.mb-4.mb-sm-0
+        .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/3.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 3:
+              p Líquidos inflamables
+
+
+    .row.mb-2
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-3
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/4.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 4:
+              p Sólidos inflamables, con subclasificaciones llamadas divisiones.
+
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/5.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 5:
+              p Comburentes y peróxidos orgánicos
+
+      .col-sm-8.col-lg-4.mb-4.mb-sm-0
+        .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/6.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 6:
+              p Sustancias tóxicas e infecciosas
+
+    .row.mb-4
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/7.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 7:
+              p Materiales radiactivos
+
+      .col-sm-8.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/8.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 8:
+              p Sustancias corrosivas
+
+      .col-sm-8.col-lg-4.mb-4.mb-sm-0
+        .tarjeta--boton.color-acento-contenido.text-white--hover.p-3
+          .row.justify-content-center
+            .col-3
+              figure
+                img(src='@/assets/curso/tema1/9.png', alt='Texto que describa la imagen')
+            .col-9
+              h5 Clase 9:
+              p Sustancias y objetos peligrosos varios
+
+    p.mb-4 Puede acceder al documento publicado por la ONU, denominado <b>Recomendaciones Relativas al Transporte de Mercancías Peligrosas</b>, del cual hay dos volúmenes, desde aquí.
+
+    p.mb-4 Igualmente, la ONU ha publicado un documento titulado <b>Guía de Respuesta en Caso de Emergencia</b> que popularmente se denomina <b>“Libro Naranja”</b>, el cual es una guía destinada al uso de los primeros respondedores durante la fase inicial de un incidente en el transporte que involucre mercancías peligrosas/materiales peligrosos. Puede consultarlo aquí
+    separador
 
     #t_1_4.titulo-segundo.color-acento-contenido
       .h4 1.4	Métodos de compra de mercancías

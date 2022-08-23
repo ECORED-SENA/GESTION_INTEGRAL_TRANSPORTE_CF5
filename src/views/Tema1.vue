@@ -288,12 +288,191 @@
               h5 Principio 8
               p Si la demanda disminuye, la oferta disminuye, el cambio en el precio es indeterminado y la cantidad disminuye.
 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-9
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            caption.mb-0 Nota. Tomada de Martínez (2020).
+            thead
+              tr
+                th 
+                th Misma Oferta
+                th Aumento de Oferta
+                th Descenso oferta
+            tbody
+              tr
+                td Misma Demanda
+                td Mismo Precio <br><br/>Misma Cantidad
+                td 
+                  h5 Principio 4
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+                td 
+                  h5 Principio 3
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+              tr
+                td Aumento Demanda
+                td 
+                  h5 Principio 1
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+                td 
+                  h5 Principio 7
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/interrogante.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+                td 
+                  h5 Principio 5
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/sube.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/interrogante.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+              tr
+                td Descenso Demanda
+                td 
+                  h5 Principio 2
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+                td 
+                  h5 Principio 6
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/interrogante.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+                td 
+                  h5 Principio 8
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/interrogante.png', alt='icono')
+                  .col-md-8 
+                    p Precio
+                  .col-md-4
+                    figure  
+                      img(src='@/assets/curso/tema1/baja.png', alt='icono')
+                  .col-md-8
+                    p Cantidad
+    separador
+
 
     #t_1_3.titulo-segundo.color-acento-contenido
       .h4 1.3	Actividades económicas
 
+    p.mb-4 En este acápite, es preciso considerar las actividades económicas que son objeto de transporte, o sea las mercancías a transportar, los tipos, las condiciones y algunas características generales.
+    p.mb-4 Para poder clasificar la mercancía, existen tres criterios, a saber:
 
+    .titulo-principal1.color-acento-contenido.mb-5
+      .titulo-principal1__numero
+        span 
+      h3.mb-0 Primer criterio
 
+    p.mb-4 Es el tipo de mercancía, según su clasificación en el sistema armonizado, el cual constituye una nomenclatura internacional elaborada por la <b>Organización Mundial de Aduanas y regido por el Sistema Armonizado de Designación y Codificación de Mercancías.</b>
+    p.mb-4 Las mercancías se organizan en: 
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-5
+        figure  
+          img(src='@/assets/curso/tema1/criterio.png', alt='Productos')
+      .col-md-7
+        p.mb-4 Se compone de 5.000 grupos, organizados en 21 secciones, 97 capítulos, títulos y subtítulos. El código numérico está compuesto de 8 dígitos.
+        p.mb-4 A fin de convenir y codificar mundialmente los tipos de mercancías, se tiene el Convenio Internacional sobre el Sistema Armonizado de Designación y Codificación de Mercancías (Sistema Armonizado) del Consejo de Cooperación Aduanera, cuyo anexo comprende una nomenclatura destinada, entre otras finalidades, a constituir la nomenclatura de los Aranceles de Aduanas y de Estadísticas de Comercio Exterior, lo cual básicamente está llamado a facilitar la identificación y clasificación de las mercancías, las estadísticas de comercio exterior y otras medidas de política comercial de la Comunidad Andina relacionadas con la importación y exportación de mercancías.
+        .row
+          .col-md-9
+            a.anexo.mb-4.mb-lg-0(href="http://www.sice.oas.org/trade/junac/decisiones/Dec570s.asp" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Puede obtener los cinco anexos de codificación de mercancías de la Comunidad Andina, NANDINA, dando clic aquí
+    
+    p.mb-4 Como se puede advertir en el Sistema Armonizado de Designación y Codificación de Mercancías, existe una Unidad de Flete, que es el costo del transporte de una mercancía en un vehículo, el cual también se encuentra armonizado para los diferentes modos de transporte, de la siguiente manera:
+
+    p.mb-5 <b>Relación de volúmenes por peso de flete en cada modo de transporte.</b>
+
+    .row.mb-5
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-secundario.p-5
+          .tarjeta-numerada__numero
+            .h2 
+          p.text-center Volumen peso Flete
+          p.text-center <b>Flete Marítimo</b>
+          p.text-center 1m3 = 1 Tonelada
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-secundario2.p-5
+          .tarjeta-numerada__numero
+            .h2 
+          p.text-center Volumen peso Flete
+          p.text-center <b>Flete Aéreo</b>
+          p.text-center 1m3 = 6 Toneladas
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-secundario3.p-5
+          .tarjeta-numerada__numero
+            .h2 
+          p.text-center Volumen peso Flete
+          p.text-center <b>Flete Ferroviario</b>
+          p.text-center 1m3 = 4 Toneladas
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-secundario4.p-5
+          .tarjeta-numerada__numero
+            .h2 
+          p.text-center Volumen peso Flete
+          p.text-center <b>Flete Carretero</b>
+          p.text-center 1m3 = 2.5 Toneladas
+
+    .row.mb-4 
 
     #t_1_4.titulo-segundo.color-acento-contenido
       .h4 1.4	Métodos de compra de mercancías

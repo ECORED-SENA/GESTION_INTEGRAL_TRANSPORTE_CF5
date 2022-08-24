@@ -604,6 +604,78 @@
 
     #t_1_4.titulo-segundo.color-acento-contenido
       .h4 1.4	Métodos de compra de mercancías
+
+    .row.mb-4
+      .col-md-6
+        p Definir el control de compra y venta de mercancías es llevar una contabilidad de los inventarios, es colocarle un valor a los bienes, valorar los activos, y a esto se le denomina valuación de inventarios. Existen diversos métodos de valuación de inventarios, de acuerdo con la actividad de la empresa o de las mercancías, por ejemplo: mercancías perecederas.
+      .col-md-6
+        figure
+          img(src='@/assets/curso/tema1/img4.jpg', alt='Texto que describa la imagen')
+
+    p.mb-4 Entre los métodos de valuación utilizados por las empresas están:
+
+    TabsA.color-acento-contenido.mb-5
+      .tarjeta.color-acento-botones--borde.p-4(titulo="1. Costo (Precio) promedio (PP)")
+        .row
+          .col-md-2
+            figure
+              img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
+          .col-md-10
+            h4 Costo (Precio) promedio (PP): 
+            p También llamado promedio ponderado, que consiste en valorar el promedio de la mercancía (los mismos artículos) comprada por la empresa y la que se mantiene en existencias, y dividirlo por el número de artículos. Este valor será el asignado como costo unitario en las ventas. 
+            a.anexo.mb-4.mb-lg-0(href="https://actualicese.com/metodos-de-valuacion-de-inventarios/ " target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Recuperado de: https://actualicese.com/metodos-de-valuacion-de-inventarios/ 
+      
+      .tarjeta.color-acento-botones--borde.p-4(titulo="2. Primeras entradas, primeras salidas (PEPS)")
+        .row
+          .col-md-2
+            figure
+              img(src='@/assets/curso/tema1/11.png', alt='Texto que describa la imagen')
+          .col-md-10
+            h4 Primeras entradas, primeras salidas (PEPS): 
+            p Opera bajo la presunción que la mercancía o materia prima que ingresa primero a la compañía es la primera en ser vendida (costo de ventas) o la primera en ser agotada en producción (costo de producción).  
+            a.anexo.mb-4.mb-lg-0(href="https://actualicese.com/metodos-de-valuacion-de-inventarios" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Recuperado de: https://actualicese.com/metodos-de-valuacion-de-inventarios
+      
+      .tarjeta.color-acento-botones--borde.p-4(titulo="3. Últimas entradas, primeras salidas (UEPS)")
+        .row
+          .col-md-2
+            figure
+              img(src='@/assets/curso/tema1/12.png', alt='Texto que describa la imagen')
+          .col-md-10
+            h4 Últimas entradas, primeras salidas (UEPS): 
+            p En esta técnica, la presunción es que la mercancía o materia prima que ingresa de última en la compañía es la primera en ser vendida (costo de ventas) o usada para la producción (costo de producción). 
+            a.anexo.mb-4.mb-lg-0(href="https://actualicese.com/metodos-de-valuacion-de-inventarios " target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Recuperado de: https://actualicese.com/metodos-de-valuacion-de-inventarios
+      
+      .tarjeta.color-acento-botones--borde.p-4(titulo="4. Costo identificado")
+        .row
+          .col-md-2
+            figure
+              img(src='@/assets/curso/tema1/13.png', alt='Texto que describa la imagen')
+          .col-md-10
+            h4 Costo identificado:  
+            p Se emplea cuando, por las características de ciertos artículos, es factible que se identifiquen específicamente con su costo de adquisición o producción.
+
+      .tarjeta.color-acento-botones--borde.p-4(titulo="5. Detallistas")
+        .row
+          .col-md-2
+            figure
+              img(src='@/assets/curso/tema1/14.png', alt='Texto que describa la imagen')
+          .col-md-10
+            h4 Detallistas:  
+            p Corresponde a valuar sus inventarios al precio de venta disminuido con el margen de utilidad bruta que tengan en el ejercicio.
+
+     
   
 </template>
 

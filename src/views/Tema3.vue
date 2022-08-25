@@ -72,29 +72,42 @@
           h5 Psicológicos:
           p que incluyen los comportamientos actitudinales, motivacionales y hábitos o conductas.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 6
           span - Clases de mercado  
-        ImagenInfografica.color-secundario.mb-5
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema3/infografica.png', alt='Texto que describa la imagen')
+        figure
+          img(src='@/assets/curso/tema3/infografica.png', alt='consumidores')
+          figcaption Nota. Tomada de SENA (2021).
 
-          .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="1")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+    .titulo-principal1.color-acento-contenido.mb-5
+      .titulo-principal1__numero
+        span 
+      h3.mb-0 Oportunidades
 
-          .tarjeta.color-acento-botones.p-3(x="50%" y="50%" numero="A")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor ddasdasd asdasd asdasd a asd sd asdasd sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-6
+        figure.mb-4
+          img(src='@/assets/curso/tema3/icon1.png', alt='consumidores', style="width: 72px")
+        p Una vez se han detectado y establecido las características del consumidor, se deberán verificar las oportunidades en que se halla el producto objeto de deseo de ese consumidor.
+      .col-md-6
+        figure
+          img(src='@/assets/curso/tema3/img2.jpg', alt='consumidores')
 
-          .tarjeta.color-acento-botones.p-3(x="70%" y="70%" numero="B")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+    .titulo-principal1.color-acento-contenido.mb-5
+      .titulo-principal1__numero
+        span 
+      h3.mb-0 Amenazas
 
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-6
+        figure.mb-4
+          img(src='@/assets/curso/tema3/icon2.png', alt='consumidores', style="width: 72px")
+        p Igualmente, se deben analizar las amenazas en que puede incurrir el producto, dependiendo de los factores de comportamiento del consumidor.
+      .col-md-6
+        figure
+          img(src='@/assets/curso/tema3/img3.jpg', alt='consumidores')
 
 
 </template>

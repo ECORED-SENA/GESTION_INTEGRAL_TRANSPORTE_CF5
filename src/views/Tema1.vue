@@ -99,7 +99,7 @@
                     i.fas.fa-angle-right
                     | Con el incremento de unidades en venta, se disminuyen los precios.
 
-          .py-3.py-md-4(titulo="Nidales")
+          .py-3.py-md-4(titulo="Características de la demanda")
             .row.p-2
               .col-md-5
                 figure
@@ -301,8 +301,8 @@
                 th Descenso oferta
             tbody
               tr
-                td Misma Demanda
-                td Mismo Precio <br><br/>Misma Cantidad
+                td.text-center Misma Demanda
+                td.fond.text-center Mismo Precio <br><br/>Misma Cantidad
                 td 
                   h5 Principio 4
                   .col-md-4
@@ -328,7 +328,7 @@
                   .col-md-8
                     p Cantidad
               tr
-                td Aumento Demanda
+                td.text-center Aumento Demanda
                 td 
                   h5 Principio 1
                   .col-md-4
@@ -366,7 +366,7 @@
                   .col-md-8
                     p Cantidad
               tr
-                td Descenso Demanda
+                td.text-center Descenso Demanda
                 td 
                   h5 Principio 2
                   .col-md-4
@@ -490,7 +490,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p Anexo. Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias
+                  p Anexo. Resumen de tipos más representativos de carga versus modos de transporte.
 
       .col-md-5
         figure  
@@ -623,7 +623,7 @@
           .col-md-10
             h4 Costo (Precio) promedio (PP): 
             p También llamado promedio ponderado, que consiste en valorar el promedio de la mercancía (los mismos artículos) comprada por la empresa y la que se mantiene en existencias, y dividirlo por el número de artículos. Este valor será el asignado como costo unitario en las ventas. 
-            a.anexo.mb-4.mb-lg-0(href="https://actualicese.com/metodos-de-valuacion-de-inventarios/ " target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://actualicese.com/metodos-de-valuacion-de-inventarios/  " target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

@@ -118,40 +118,40 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Impulsivo:',
+        titulo: 'Impulsivo',
         texto:
           'Basan su inclinación en factores externos, como tendencia, moda, comparación con los demás.',
         imagen: require('@/assets/curso/tema3/1.jpg'),
       },
       {
-        titulo: 'Escéptico:',
+        titulo: 'Escéptico',
         texto: 'Son compradores ocasionales y se muestran apáticos al comprar.',
         imagen: require('@/assets/curso/tema3/2.jpg'),
       },
       {
-        titulo: 'Optimista:',
+        titulo: 'Optimista',
         texto:
           'Analizan las opciones y consultan con otros al momento de comprar.',
         imagen: require('@/assets/curso/tema3/3.jpg'),
       },
       {
-        titulo: 'Tradicional:',
+        titulo: 'Tradicional',
         texto: 'Al igual que el escéptico, sólo compran lo que necesitan.',
         imagen: require('@/assets/curso/tema3/4.jpg'),
       },
       {
-        titulo: 'Emocional:',
+        titulo: 'Emocional',
         texto:
           'Compra exactamente lo que quiere, pero algunas veces no lo que necesita.',
         imagen: require('@/assets/curso/tema3/5.jpg'),
       },
       {
-        titulo: 'Práctico:',
+        titulo: 'Práctico',
         texto: 'Es el personaje experimentado en compras por internet.',
         imagen: require('@/assets/curso/tema3/6.jpg'),
       },
       {
-        titulo: 'Activo:',
+        titulo: 'Activo',
         texto:
           'No busca descuentos u ofertas, busca lo que necesita y lo adquiere sin problemas.',
         imagen: require('@/assets/curso/tema3/7.jpg'),
@@ -159,7 +159,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Y los siguientes 3 comportamientos que no son los más inciertos: <br><br/> Indeciso: Comparan mucho de lo que les preocupa, entre otros, la oferta, la rebaja, el precio, el tiempo de recibo y forma de pago. <br><br/> Buscador de experiencias: Son prácticos en la búsqueda por Internet de productos que satisfagan sus necesidades. <br><br/> Buscador de ofertas: Lánguidos, pacientes y poco fanáticos a la espera de descuentos u ofertas.',
+          'Y los siguientes 3 comportamientos que no son los más inciertos: <br><br/> <b>Indeciso:</b> comparan mucho de lo que les preocupa, entre otros, la oferta, la rebaja, el precio, el tiempo de recibo y forma de pago. <br><br/> <b>Buscador de experiencias:</b> son prácticos en la búsqueda por Internet de productos que satisfagan sus necesidades. <br><br/> <b>Buscador de ofertas:</b> Lánguidos, pacientes y poco fanáticos a la espera de descuentos u ofertas.',
         imagen: require('@/assets/curso/tema3/8.jpg'),
       },
     ],

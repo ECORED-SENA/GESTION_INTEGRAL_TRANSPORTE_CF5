@@ -160,11 +160,6 @@ export default {
     ],
     subMenu: [
       {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-      },
-      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
@@ -200,132 +195,131 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Burneo, K. y Larios, F. (2015). Principios De Economía. ECOE Ediciones. ',
+    },
+    {
+      referencia: 'Enciclopedia Económica. (2020). Demanda de mercado',
+      link: 'https://enciclopediaeconomica.com/demanda-de-mercado/',
+    },
+    {
+      referencia: 'Enciclopedia Económica. (2021). Oferta de mercado.',
+      link: 'https://enciclopediaeconomica.com/oferta-de-mercado/',
+    },
+    {
+      referencia:
+        'Martínez, J. (2020). Resumen cambios de oferta y demanda y efectos en el equilibrio de mercado. Econosublime.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.econosublime.com/2018/09/cambios-simultaneos-demanda-oferta.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Martínez, J. (2021). Cuadro resumen tipos de mercado. Econosublime.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.econosublime.com/2018/09/cuadro-resumen-tipos-mercado.html',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Montagud, N. (2021). Los 18 tipos de mercados y sus características. Psicología y Mente.',
+      link: 'https://psicologiaymente.com/cultura/tipos-mercados',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Moreno, M. (2010). ¿Qué es la Elasticidad de la Demanda? El Blog Salmón.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.elblogsalmon.com/conceptos-de-economia/que-es-la-elasticidad-de-la-demanda',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Solomon, M. (2021). Comportamiento del Consumidor (7.a ed.). Pearson Educación.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.academia.edu/34920368/Comportamiento_del_consumidor_7ed_Michael_R_Solomon',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Yirepa. (s. f.). La elasticidad de la oferta. Yirepa. Economía y Finanzas.',
+      link: 'https://yirepa.es/la elasticidad de la oferta.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Correlación',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el vínculo entre dos variables que se modifican en forma directamente proporcional.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Diagnóstico',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es el reconocimiento que se realiza a una situación en particular para determinar su tendencia.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Desviación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'En estadística, es la diferencia entre el valor de una variable y los valores de la media de esa variable.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Dispersión',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'En estadística, las medidas de dispersión son el grado en que una distribución se estira o encoge.',
     },
     {
-      termino: 'Moda',
+      termino: 'Encuesta',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Recolección de información sobre preguntas de un cuestionario, sin modificar el medio ambiente ni los sujetos de estudio, para consignar los datos en forma gráfica o numérica.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Estadística',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Rama de las matemáticas basada en las leyes de probabilidad, por medio de la cual se analizan las variables y factores de los datos, con el fin de organizarlos, interpretarlos y entregarlos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Logística',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Conjunto de modos y medios que se emplean para organizar los procesos, especialmente, de recibo y entrega de bienes o suministros.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Mercado',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Interacción entre productores y consumidores donde se intercambian bienes o servicios.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Método',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Procedimiento sistemático y en orden para obtener un fin específico.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Pronóstico',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Anticipación del desarrollo de un proceso o de un hecho futuro a partir de indicios.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Rango',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Intervalo entre valor máximo y valor mínimo, siendo indicador de la dispersión de los datos, que en forma directamente proporcional revelan que, a mayor dispersión, mayor rango.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Variables',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Medición u observación de características que asumen rangos diferentes y que al oscilar generan valores numéricos.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
   ],
   creditos: {

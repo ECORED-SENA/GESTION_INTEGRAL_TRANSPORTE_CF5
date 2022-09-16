@@ -77,7 +77,7 @@
                   img(src='@/assets/curso/tema2/img1.jpg', alt='Un pasaporte abierto')
             .col-lg-9
               .bloque-texto-a__texto.p-4.lila-color 
-                p.mb-3 Llamado también estrategias de comercialización o plan de Marketing, tiene por objetivo ofrecer los bienes o servicios producidos en un tiempo determinado y a una población específica. El SENA ha incursionado en la estructuración de documentos para el emprendimiento y en ellos pueden verse ejemplos de planes de mercadeo y comercialización.
+                p.mb-3 Llamado también estrategias de comercialización o plan de <i>Marketing,</i> tiene por objetivo ofrecer los bienes o servicios producidos en un tiempo determinado y a una población específica. El SENA ha incursionado en la estructuración de documentos para el emprendimiento y en ellos pueden verse ejemplos de planes de mercadeo y comercialización.
 
     .tarjeta.color-fondo.p-3.mb-5
       .row.justify-content-center.align-items-center

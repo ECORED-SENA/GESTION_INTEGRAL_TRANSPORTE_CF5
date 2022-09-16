@@ -10,11 +10,10 @@
       h1 Introducción
 
     p.mb-4 A continuación, presentaremos el video que hará una breve introducción del presente componente formativo.
-    
+
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/0h8_t29WU8s" title="Pronóstico de necesidades: introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 En toda negociación hay dos personas con bienes o gustos diferentes que desean intercambiarlos, es decir hay dos actores que interactúan necesariamente: quien vende un producto y quien lo compra. Este intercambio se denomina mercado. Al proceso entre los suministros, producción, traslado al punto de destino, el ofrecimiento a uno o varios compradores y la adquisición del producto o servicio por un comprador se le denomina cadena de suministro, gestión logística o cadena logística. 
 

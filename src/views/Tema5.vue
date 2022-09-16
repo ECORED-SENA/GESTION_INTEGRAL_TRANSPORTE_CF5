@@ -40,7 +40,7 @@
             img(src='@/assets/curso/tema5/3.png', alt='Cadena rota' style="width: 90px")
           p
             b Fortalezas: 
-          p Generalmente se definen como el potencial del recurso humano, las capacidades, habilidades, nivel de competencia y adaptación al cambio. Estos recursos generan grandes ventajas frente a la competencia.
+          p generalmente se definen como el potencial del recurso humano, las capacidades, habilidades, nivel de competencia y adaptación al cambio. Estos recursos generan grandes ventajas frente a la competencia.
 
       .col-md-3.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada8.color-primario8.p-4
@@ -50,7 +50,7 @@
             img(src='@/assets/curso/tema5/4.png', alt='Cadena rota' style="width: 90px")
           p
             b Amenazas:
-          p Situaciones que no provienen del interior de la organización, sino del medio en que desarrolla sus operaciones, siendo muy importante detectarlas y dominarlas pues su persistencia puede acabar con su vida jurídica. 
+          p situaciones que no provienen del interior de la organización, sino del medio en que desarrolla sus operaciones, siendo muy importante detectarlas y dominarlas pues su persistencia puede acabar con su vida jurídica. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-md-4

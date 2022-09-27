@@ -159,7 +159,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Y los siguientes 3 comportamientos que no son los más inciertos: <br><br/> <b>Indeciso:</b> comparan mucho de lo que les preocupa, entre otros, la oferta, la rebaja, el precio, el tiempo de recibo y forma de pago. <br><br/> <b>Buscador de experiencias:</b> son prácticos en la búsqueda por Internet de productos que satisfagan sus necesidades. <br><br/> <b>Buscador de ofertas:</b> Lánguidos, pacientes y poco fanáticos a la espera de descuentos u ofertas.',
+          'Y los siguientes 3 comportamientos que no son los más inciertos: <br><br/> <b>Indeciso:</b> comparan mucho de lo que les preocupa, entre otros, la oferta, la rebaja, el precio, el tiempo de recibo y forma de pago. <br><br/> <b>Buscador de experiencias:</b> son prácticos en la búsqueda por Internet de productos que satisfagan sus necesidades. <br><br/> <b>Buscador de ofertas:</b> lánguidos, pacientes y poco fanáticos a la espera de descuentos u ofertas.',
         imagen: require('@/assets/curso/tema3/8.jpg'),
       },
     ],

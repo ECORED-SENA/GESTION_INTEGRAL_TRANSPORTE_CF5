@@ -190,131 +190,100 @@ export default {
   referencias: [
     {
       referencia:
-        'Burneo, K. y Larios, F. (2015). Principios De Economía. ECOE Ediciones. ',
-    },
-    {
-      referencia: 'Enciclopedia Económica. (2020). Demanda de mercado',
-      link: 'https://enciclopediaeconomica.com/demanda-de-mercado/',
-    },
-    {
-      referencia: 'Enciclopedia Económica. (2021). Oferta de mercado.',
-      link: 'https://enciclopediaeconomica.com/oferta-de-mercado/',
-    },
-    {
-      referencia:
-        'Martínez, J. (2020). Resumen cambios de oferta y demanda y efectos en el equilibrio de mercado. Econosublime.',
+        'Guijarro, O., J., Caparrós, R., J., & Cubero, L., L. (2019). DevOps y seguridad cloud. Editorial UOC.',
       link:
-        'http://www.econosublime.com/2018/09/cambios-simultaneos-demanda-oferta.html',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/128889',
     },
     {
       referencia:
-        'Martínez, J. (2021). Cuadro resumen tipos de mercado. Econosublime.',
+        'Incibe. (2022). Top 10 vulnerabilidades web de 2021. Incibe.',
       link:
-        'http://www.econosublime.com/2018/09/cuadro-resumen-tipos-mercado.html',
+        'https://www.incibe.es/protege-tu-empresa/blog/top-10-vulnerabilidades-web-2021',
     },
     {
-      referencia:
-        'Montagud, N. (2021). Los 18 tipos de mercados y sus características. Psicología y Mente.',
-      link: 'https://psicologiaymente.com/cultura/tipos-mercados',
-    },
-    {
-      referencia:
-        'Moreno, M. (2010). ¿Qué es la Elasticidad de la Demanda? El Blog Salmón.',
+      referencia: 'MinTIC. (2016). Guía de gestión de riesgos. MinTIC.',
       link:
-        'https://www.elblogsalmon.com/conceptos-de-economia/que-es-la-elasticidad-de-la-demanda',
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
     },
     {
       referencia:
-        'Solomon, M. (2021). Comportamiento del Consumidor (7.a ed.). Pearson Educación.',
+        'MinTIC. (2016). Guía para la gestión y clasificación de activos de información. MinTIC.',
       link:
-        'https://www.academia.edu/34920368/Comportamiento_del_consumidor_7ed_Michael_R_Solomon',
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G5_Gestion_Clasificacion.pdf',
     },
     {
       referencia:
-        'Yirepa. (s. f.). La elasticidad de la oferta. Yirepa. Economía y Finanzas.',
-      link: 'https://yirepa.es/la elasticidad de la oferta.html',
+        'MinTIC. (2016). Guía para la implementación de seguridad de la información en una mipyme. MinTIC.',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_Guia_Seguridad_informacion_Mypimes.pdf',
+    },
+    {
+      referencia:
+        'MinTIC. (2020) Anexo 3 - Resolución MinTIC 1519 del 2020, Condiciones mínimas técnicas y de seguridad digital.',
+      link:
+        'https://gobiernodigital.mintic.gov.co/692/articles-160770_Condiciones_minimas.pdf',
+    },
+    {
+      referencia:
+        'Ortega, C., J. M. (2018). Seguridad en aplicaciones web Java. RA-MA Editorial.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/106511',
+    },
+    {
+      referencia: 'Owasp. (2022). Owasp Top 10:2021.',
+      link: 'https://owasp.org/Top10/',
+    },
+    {
+      referencia: 'Owasp. (2022). Owasp web Security Testing Guide.',
+      link: 'https://owasp.org/www-project-web-security-testing-guide/latest/',
     },
   ],
   glosario: [
     {
-      termino: 'Correlación',
+      termino: '2FA',
       significado:
-        'Es el vínculo entre dos variables que se modifican en forma directamente proporcional.',
+        'término que representa doble factor de autenticación, solución que agrega una capa de seguridad en sistemas d autenticación basados en componentes externos a un sistema, por ejemplo, un token, una aplicación, tarjeta inteligente, etc.',
     },
     {
-      termino: 'Diagnóstico',
+      termino: 'Checklist',
       significado:
-        'Es el reconocimiento que se realiza a una situación en particular para determinar su tendencia.',
+        'lista de chequeo que sirve para registrar un proceso de auditoría.',
     },
     {
-      termino: 'Desviación',
+      termino: 'GUI',
       significado:
-        'En estadística, es la diferencia entre el valor de una variable y los valores de la media de esa variable.',
+        'interfaz gráfica de usuario, por ejemplo, una aplicación, o aplicación móvil.',
     },
     {
-      termino: 'Dispersión',
+      termino: 'KPI',
       significado:
-        'En estadística, las medidas de dispersión son el grado en que una distribución se estira o encoge.',
+        'Key Performance Indicator o indicador clave de desempeño, que representa las métricas de eficacia de las acciones adoptadas y así determinar si son efectivas o no.',
     },
     {
-      termino: 'Encuesta',
+      termino: 'URL',
       significado:
-        'Recolección de información sobre preguntas de un cuestionario, sin modificar el medio ambiente ni los sujetos de estudio, para consignar los datos en forma gráfica o numérica.',
-    },
-    {
-      termino: 'Estadística',
-      significado:
-        'Rama de las matemáticas basada en las leyes de probabilidad, por medio de la cual se analizan las variables y factores de los datos, con el fin de organizarlos, interpretarlos y entregarlos.',
-    },
-    {
-      termino: 'Logística',
-      significado:
-        'Conjunto de modos y medios que se emplean para organizar los procesos, especialmente, de recibo y entrega de bienes o suministros.',
-    },
-    {
-      termino: 'Mercado',
-      significado:
-        'Interacción entre productores y consumidores donde se intercambian bienes o servicios.',
-    },
-    {
-      termino: 'Método',
-      significado:
-        'Procedimiento sistemático y en orden para obtener un fin específico.',
-    },
-    {
-      termino: 'Pronóstico',
-      significado:
-        'Anticipación del desarrollo de un proceso o de un hecho futuro a partir de indicios.',
-    },
-    {
-      termino: 'Rango',
-      significado:
-        'Intervalo entre valor máximo y valor mínimo, siendo indicador de la dispersión de los datos, que en forma directamente proporcional revelan que, a mayor dispersión, mayor rango.',
-    },
-    {
-      termino: 'Variables',
-      significado:
-        'Medición u observación de características que asumen rangos diferentes y que al oscilar generan valores numéricos.',
+        'Uniform Resource Locator (localizador de recursos uniforme), representa una dirección que apunta hacia un recurso único en la web.',
     },
   ],
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Análisis de resultados',
+      referencia: 'Owasp. (2022). Web Security Testing Guide 4.2. Owasp. ',
+      tipo: 'Página Web',
+      link:
+        'https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Análisis de resultados',
+      referencia: 'Owasp. (2022). Web Security Testing Guide Checklist. Owasp.',
+      tipo: 'Página Web',
+      link: 'https://github.com/OWASP/wstg/tree/master/checklist',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Análisis de resultados',
+      referencia: 'Olmedo, J. (2021). Owasp risk assessment calculator.',
+      tipo: 'Página Web',
+      link: 'https://javierolmedo.github.io/OWASP-Calculator/',
     },
   ],
   creditos: {

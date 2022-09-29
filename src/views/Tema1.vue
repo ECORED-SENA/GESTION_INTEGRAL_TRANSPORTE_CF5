@@ -8,14 +8,14 @@
         span 1
       h1  Oferta y Demanda
 
-    p.mb-4 Llamar leyes de la oferta y demanda es llamar leyes del mercado de bienes y servicios, que están dadas por las cambiantes condiciones que inciden en variables de venta y compra. Hay características que inciden en ellas, que incluyen su definición, características, ley de la oferta, ley de la demanda y factores que intervienen en dichas relaciones.
+    p.mb-4(data-aos="fade-right") Llamar leyes de la oferta y demanda es llamar leyes del mercado de bienes y servicios, que están dadas por las cambiantes condiciones que inciden en variables de venta y compra. Hay características que inciden en ellas, que incluyen su definición, características, ley de la oferta, ley de la demanda y factores que intervienen en dichas relaciones.
 
     separador
     
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.1. Conceptos básicos
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-5
         .row.mb-4 
           .col-md-2
@@ -31,7 +31,7 @@
           img(src='@/assets/curso/tema1/grafica1.png', alt='Gráfica explicativa')
           figcaption Nota. Tomada de Enciclopedia Económica (2020).
           
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-5
         .row.mb-4 
           .col-md-2
@@ -47,7 +47,7 @@
           img(src='@/assets/curso/tema1/grafica2.png', alt='Gráfica explicativa')
           figcaption Nota. Tomada de Enciclopedia Económica (2021).
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-5
         .row.mb-4 
           .col-md-2
@@ -64,17 +64,17 @@
           figcaption Nota. Tomada de Enciclopedia Económica (2021).
     separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.2	Principios, pronósticos y métodos
 
-    p.mb-0 El mercado está regido por unas características, leyes y factores, los cuales permiten realizar estudios y análisis a fin de comprender sus alcances, pronósticos y métodos de análisis.
-    p.mb-4 A continuación, se presentan las características tanto de oferta como de demanda:
+    p.mb-0(data-aos="fade-right") El mercado está regido por unas características, leyes y factores, los cuales permiten realizar estudios y análisis a fin de comprender sus alcances, pronósticos y métodos de análisis.
+    p.mb-4(data-aos="fade-right") A continuación, se presentan las características tanto de oferta como de demanda:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-4
+      .col-md-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img1.png', alt='Señal de bien con la mano')
-      .col-md-8
+      .col-md-8(data-aos="fade-left")
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="Características de la oferta")
             .row.p-2
@@ -148,9 +148,9 @@
                               img(src='@/assets/curso/tema1/grafica4.png', alt='gráfica')
                               figcaption Nota. Tomada de Moreno (2010).
 
-    p.mb-4 A continuación, se presentan las diferentes leyes y factores de la oferta y la demanda:
+    p.mb-4(data-aos="fade-right") A continuación, se presentan las diferentes leyes y factores de la oferta y la demanda:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Factores de la oferta y la demanda")
           .col-md-5
@@ -198,14 +198,14 @@
                     td Competencia
                     td Los intereses del público
             
-    .titulo-principal1.color-acento-contenido.mb-5
+    .titulo-principal1.color-acento-contenido.mb-5(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Principios de la Oferta y la Demanda
 
-    p.mb-4 A partir de las leyes de oferta y demanda, se conciben ocho principios que se describen como cambios en el equilibrio del mercado, de la siguiente manera:
+    p.mb-4(data-aos="fade-right") A partir de las leyes de oferta y demanda, se conciben ocho principios que se describen como cambios en el equilibrio del mercado, de la siguiente manera:
 
-    .row.mb-0
+    .row.mb-0(data-aos="fade")
       .col-md-3
         .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
@@ -247,7 +247,7 @@
               h5 Principio 4
               p Si la oferta aumenta (se desplaza hacia la derecha), el precio baja, la cantidad sube.
       
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-3
         .bloque-texto-a.color-secundario.p-3.mb-4
           .row.m-0.align-items-center.justify-content-between
@@ -288,7 +288,7 @@
               h5 Principio 8
               p Si la demanda disminuye, la oferta disminuye, el cambio en el precio es indeterminado y la cantidad disminuye.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-9
         .tabla-a.color-acento-contenido.mb-5 
           table
@@ -406,25 +406,25 @@
     separador
 
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.3	Actividades económicas
 
-    p.mb-4 En este acápite, es preciso considerar las actividades económicas que son objeto de transporte, o sea las mercancías a transportar, los tipos, las condiciones y algunas características generales.
-    p.mb-4 Para poder clasificar la mercancía, existen tres criterios, a saber:
+    p.mb-4(data-aos="fade-right") En este acápite, es preciso considerar las actividades económicas que son objeto de transporte, o sea las mercancías a transportar, los tipos, las condiciones y algunas características generales.
+    p.mb-4(data-aos="fade-right") Para poder clasificar la mercancía, existen tres criterios, a saber:
 
-    .titulo-principal1.color-acento-contenido.mb-5
+    .titulo-principal1.color-acento-contenido.mb-5(data-aos="fade-left")
       .titulo-principal1__numero
         span 
       h3.mb-0 Primer criterio
 
-    p.mb-4 Es el tipo de mercancía, según su clasificación en el sistema armonizado, el cual constituye una nomenclatura internacional elaborada por la <b>Organización Mundial de Aduanas y regido por el Sistema Armonizado de Designación y Codificación de Mercancías.</b>
-    p.mb-4 Las mercancías se organizan en: 
+    p.mb-4(data-aos="fade-right") Es el tipo de mercancía, según su clasificación en el sistema armonizado, el cual constituye una nomenclatura internacional elaborada por la <b>Organización Mundial de Aduanas y regido por el Sistema Armonizado de Designación y Codificación de Mercancías.</b>
+    p.mb-4(data-aos="fade-right") Las mercancías se organizan en: 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-5
+      .col-md-5(data-aos="fade-right")
         figure  
           img(src='@/assets/curso/tema1/criterio.png', alt='Productos')
-      .col-md-7
+      .col-md-7(data-aos="fade-left")
         p.mb-4 Se compone de 5.000 grupos, organizados en 21 secciones, 97 capítulos, títulos y subtítulos. El código numérico está compuesto de 8 dígitos.
         p.mb-4 A fin de convenir y codificar mundialmente los tipos de mercancías, se tiene el Convenio Internacional sobre el Sistema Armonizado de Designación y Codificación de Mercancías (Sistema Armonizado) del Consejo de Cooperación Aduanera, cuyo anexo comprende una nomenclatura destinada, entre otras finalidades, a constituir la nomenclatura de los Aranceles de Aduanas y de Estadísticas de Comercio Exterior, lo cual básicamente está llamado a facilitar la identificación y clasificación de las mercancías, las estadísticas de comercio exterior y otras medidas de política comercial de la Comunidad Andina relacionadas con la importación y exportación de mercancías.
         .row
@@ -435,11 +435,11 @@
               .anexo__texto
                 p <b>Enlace web.</b> Puede obtener los cinco anexos de codificación de mercancías de la Comunidad Andina, NANDINA, dando clic aquí
     
-    p.mb-4 Como se puede advertir en el Sistema Armonizado de Designación y Codificación de Mercancías, existe una Unidad de Flete, que es el costo del transporte de una mercancía en un vehículo, el cual también se encuentra armonizado para los diferentes modos de transporte, de la siguiente manera:
+    p.mb-4(data-aos="fade-right") Como se puede advertir en el Sistema Armonizado de Designación y Codificación de Mercancías, existe una Unidad de Flete, que es el costo del transporte de una mercancía en un vehículo, el cual también se encuentra armonizado para los diferentes modos de transporte, de la siguiente manera:
 
-    p.mb-5 <b>Relación de volúmenes por peso de flete en cada modo de transporte.</b>
+    p.mb-5(data-aos="fade-right") <b>Relación de volúmenes por peso de flete en cada modo de transporte.</b>
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-5
           .tarjeta-numerada__numero
@@ -473,7 +473,7 @@
           p.text-center 1m3 = 2.5 Toneladas
 
     .row.mb-4 
-      .col-md-7
+      .col-md-7(data-aos="fade-right")
         .titulo-principal1.color-acento-contenido.mb-5
           .titulo-principal1__numero
             span 
@@ -492,18 +492,18 @@
                 .anexo__texto
                   p Anexo. Resumen de tipos más representativos de carga versus modos de transporte.
 
-      .col-md-5
+      .col-md-5(data-aos="fade-left")
         figure  
           img(src='@/assets/curso/tema1/img3.jpg', alt='icono')
 
-    .titulo-principal1.color-acento-contenido.mb-5
+    .titulo-principal1.color-acento-contenido.mb-5(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Tercer criterio
 
-    p.mb-4 Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases
+    p.mb-4(data-aos="fade-right") Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases
 
-    .row.mb-2
+    .row.mb-2(data-aos="fade")
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
@@ -535,7 +535,7 @@
               p Líquidos inflamables
 
 
-    .row.mb-2
+    .row.mb-2(data-aos="fade")
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-3
           .row.justify-content-center
@@ -566,7 +566,7 @@
               h5 Clase 6:
               p Sustancias tóxicas e infecciosas
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
@@ -597,24 +597,24 @@
               h5 Clase 9:
               p Sustancias y objetos peligrosos varios
 
-    p.mb-4 Puede acceder al documento publicado por la ONU, denominado <b>Recomendaciones Relativas al Transporte de Mercancías Peligrosas</b>, del cual hay dos volúmenes, desde aquí.
+    p.mb-4(data-aos="fade-right") Puede acceder al documento publicado por la ONU, denominado <b>Recomendaciones Relativas al Transporte de Mercancías Peligrosas</b>, del cual hay dos volúmenes, desde aquí.
 
-    p.mb-4 Igualmente, la ONU ha publicado un documento titulado <b>Guía de Respuesta en Caso de Emergencia</b> que popularmente se denomina <b>“Libro Naranja”</b>, el cual es una guía destinada al uso de los primeros respondedores durante la fase inicial de un incidente en el transporte que involucre mercancías peligrosas/materiales peligrosos. Puede consultarlo aquí
+    p.mb-4(data-aos="fade-right") Igualmente, la ONU ha publicado un documento titulado <b>Guía de Respuesta en Caso de Emergencia</b> que popularmente se denomina <b>“Libro Naranja”</b>, el cual es una guía destinada al uso de los primeros respondedores durante la fase inicial de un incidente en el transporte que involucre mercancías peligrosas/materiales peligrosos. Puede consultarlo aquí
     separador
 
-    #t_1_4.titulo-segundo.color-acento-contenido
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.4	Métodos de compra de mercancías
 
     .row.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         p Definir el control de compra y venta de mercancías es llevar una contabilidad de los inventarios, es colocarle un valor a los bienes, valorar los activos, y a esto se le denomina valuación de inventarios. Existen diversos métodos de valuación de inventarios, de acuerdo con la actividad de la empresa o de las mercancías, por ejemplo: mercancías perecederas.
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img4.jpg', alt='Texto que describa la imagen')
 
-    p.mb-4 Entre los métodos de valuación utilizados por las empresas están:
+    p.mb-4(data-aos="fade-right") Entre los métodos de valuación utilizados por las empresas están:
 
-    TabsA.color-acento-contenido.mb-5
+    TabsA.color-acento-contenido.mb-5(data-aos="fade")
       .tarjeta.color-acento-botones--borde.p-4(titulo="1. Costo (Precio) promedio (PP)")
         .row
           .col-md-2

@@ -8,9 +8,9 @@
         span 5
       h1  Matriz DOFA
 
-    p.mb-4 Es una herramienta de administración y planificación que permite analizar las interrelaciones entre lo bueno y lo malo de una empresa, equipo o actividad de negocio para determinar estrategias que permitan una mejora progresiva. Existen cuatro variables a considerar en la matriz: Debilidades – Oportunidades – Fortalezas – Amenazas, como se observa a continuación.
+    p.mb-4(data-aos="fade-right") Es una herramienta de administración y planificación que permite analizar las interrelaciones entre lo bueno y lo malo de una empresa, equipo o actividad de negocio para determinar estrategias que permitan una mejora progresiva. Existen cuatro variables a considerar en la matriz: Debilidades – Oportunidades – Fortalezas – Amenazas, como se observa a continuación.
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-3.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada7.color-primario7.p-4
           .tarjeta-numerada7__numero
@@ -53,9 +53,9 @@
           p situaciones que no provienen del interior de la organización, sino del medio en que desarrolla sus operaciones, siendo muy importante detectarlas y dominarlas pues su persistencia puede acabar con su vida jurídica. 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-4
+      .col-md-4(data-aos="fade-right")
         p De las cuatro variables a considerar en una matriz DOFA, dos de ellas son internas (Fortalezas y Debilidades), las cuales se pueden intervenir directamente, y dos son externas (Oportunidades y Amenazas), que solo se pueden intervenir alterando internamente los aspectos detectados. 
-      .col-md-8
+      .col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 9
           span - Matriz DOFA
@@ -64,13 +64,13 @@
           figcaption Nota. Tomada de SENA (2021).
     separador
 
-    #t_5_1.titulo-segundo.color-acento-contenido
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.1	Análisis de la matriz
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-4
+      .col-md-4(data-aos="fade-right")
         p La matriz se construye a partir del diagnóstico del análisis de los factores, logrando generar estrategias, las cuales se obtienen de combinar puntos positivos (fortalezas) con factores internos (oportunidades) y factores externos (amenazas) (FO y FA) y de la combinación de los puntos negativos (debilidades) con factores internos (oportunidades) y factores externos (amenazas) (DO y DA, respectivamente).
-      .col-md-8
+      .col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 10
           span - Indicadores para construir la matriz DOFA
@@ -79,10 +79,10 @@
           figcaption Nota. Tomada de SENA (2021).
     separador
 
-    #t_5_2.titulo-segundo.color-acento-contenido
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.2	Estudio de casos
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11
         .bloque-texto-a.color-secundario2.mb-5.p-3.py-0
           .row.m-0.align-items-center.justify-content-between

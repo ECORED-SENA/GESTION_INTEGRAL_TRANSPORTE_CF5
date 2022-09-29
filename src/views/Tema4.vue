@@ -8,12 +8,12 @@
         span 4
       h1  Análisis factores de oferta y demanda, de acuerdo con productos y actividad empresarial
     
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 4.1 Factores determinantes de la oferta
     
-    p.mb-4 Elasticidad de la oferta: en economía se utiliza este factor como la razón existente ante un cambio en el precio del bien o servicio y la respuesta en la variación a la cantidad ofrecida. Existen cinco variaciones de esta medida
+    p.mb-4(data-aos="fade-right") Elasticidad de la oferta: en economía se utiliza este factor como la razón existente ante un cambio en el precio del bien o servicio y la respuesta en la variación a la cantidad ofrecida. Existen cinco variaciones de esta medida
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11
         .bloque-texto-a.color-secundario2.mb-5.p-3.py-0
           .row.m-0.align-items-center.justify-content-between
@@ -40,7 +40,7 @@
                     i.fas.fa-angle-right
                     | Perfectamente elástica cuando la razón tiende al infinito, lo que significa que, ante un incremento pequeño en el precio, se genera una disminución infinitamente grande en la cantidad ofrecida.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
@@ -50,17 +50,17 @@
           figcaption Nota. Tomada de Yirepa (s.f.)
     separador
 
-    #t_4_2.titulo-segundo.color-acento-contenido
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 4.2	Técnicas para determinar la oferta y la demanda
 
-    p.mb-0 Para determinar el nivel de competitividad de las empresas, se deben estudiar las tendencias de la demanda, es decir, cómo los usuarios o consumidores realizan la adquisición de bienes o servicios.
-    p.mb-4 Para lograrlo, se pueden emplear dos métodos, que son: métodos cuantitativos y métodos cualitativos, como se puede apreciar a continuación.
+    p.mb-0(data-aos="fade-right") Para determinar el nivel de competitividad de las empresas, se deben estudiar las tendencias de la demanda, es decir, cómo los usuarios o consumidores realizan la adquisición de bienes o servicios.
+    p.mb-4(data-aos="fade-right") Para lograrlo, se pueden emplear dos métodos, que son: métodos cuantitativos y métodos cualitativos, como se puede apreciar a continuación.
 
     .row 
-      .col-md-4
+      .col-md-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema4/img2.jpg', alt='Hombre con computadora')
-      .col-md-8
+      .col-md-8(data-aos="fade-left")
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="Cuantitativos")
             .row.p-2

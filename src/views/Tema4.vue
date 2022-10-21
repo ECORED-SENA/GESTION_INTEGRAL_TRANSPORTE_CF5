@@ -69,25 +69,25 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-angle-right
-                    | <b>Investigación de mercados:</b> se utiliza mediante cuestionarios para pronosticar mercados. Método de derivación directa: se basa en factores específicos del mercado actual para predecir la demanda futura.
+                    p <b>Investigación de mercados:</b> se utiliza mediante cuestionarios para pronosticar mercados. Método de derivación directa: se basa en factores específicos del mercado actual para predecir la demanda futura.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Análisis de correlación:</b> es un método matemático de la razón existente entre el factor de mercado y las ventas proyectadas del producto.
+                    p <b>Análisis de correlación:</b> es un método matemático de la razón existente entre el factor de mercado y las ventas proyectadas del producto.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Análisis de factores del mercado:</b> se basa en el análisis de los factores que intervienen en el mercado y su variación estimada. 
+                    p <b>Análisis de factores del mercado:</b> se basa en el análisis de los factores que intervienen en el mercado y su variación estimada. 
                   li 
                     i.fas.fa-angle-right
-                    | <b>Análisis de históricos de ventas y preferencias:</b> se basa en el estudio de los mínimos y máximos de ventas y las preferencias de los consumidores.
+                    p <b>Análisis de históricos de ventas y preferencias:</b> se basa en el estudio de los mínimos y máximos de ventas y las preferencias de los consumidores.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Prueba de mercado:</b> es el lanzamiento controlado de un producto en un mercado cerrado a fin de detectar las reacciones del público antes del lanzamiento formal.
+                    p <b>Prueba de mercado:</b> es el lanzamiento controlado de un producto en un mercado cerrado a fin de detectar las reacciones del público antes del lanzamiento formal.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Análisis de series de tiempos:</b> es la observación de la serie histórica de precios en un tiempo determinado, para predecir los comportamientos del mercado.
+                    p <b>Análisis de series de tiempos:</b> es la observación de la serie histórica de precios en un tiempo determinado, para predecir los comportamientos del mercado.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Método de ponderación:</b> se basa en hacer un análisis cuantitativo en el que se comparan varias alternativas de productos y servicios y así tomar la mejor decisión. Podemos ver este ejemplo de una ponderación de factores versus los modos de transporte.
+                    p <b>Método de ponderación:</b> se basa en hacer un análisis cuantitativo en el que se comparan varias alternativas de productos y servicios y así tomar la mejor decisión. Podemos ver este ejemplo de una ponderación de factores versus los modos de transporte.
 
           .py-3.py-md-4(titulo="Cualitativos")
             .row.p-2
@@ -96,22 +96,22 @@
                 ul.lista-ul--color.mb-5
                   li 
                     i.fas.fa-angle-right
-                    | <b>Investigación de mercados:</b> se utiliza mediante cuestionarios para pronosticar mercados.
+                    p <b>Investigación de mercados:</b> se utiliza mediante cuestionarios para pronosticar mercados.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Método Delphi o Consenso de panel:</b> es un proceso en el cual expertos temáticos se reúnen para obtener información y opiniones cualitativas sobre pronósticos del mercado.
+                    p <b>Método Delphi o Consenso de panel:</b> es un proceso en el cual expertos temáticos se reúnen para obtener información y opiniones cualitativas sobre pronósticos del mercado.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Analogía por ciclo de vida:</b> se utiliza para introducir a los mercados productos que tienen una vida específica. 
+                    p <b>Analogía por ciclo de vida:</b> se utiliza para introducir a los mercados productos que tienen una vida específica. 
                   li 
                     i.fas.fa-angle-right
-                    | <b>Valoración o juicio informado:</b> es el método de mayor uso, pero el menos confiable, ya que se basa en realizar proyección de ventas por parte de la fuerza de ventas de las empresas, pero estas pueden ser muy optimistas o muy pesimistas.
+                    p <b>Valoración o juicio informado:</b> es el método de mayor uso, pero el menos confiable, ya que se basa en realizar proyección de ventas por parte de la fuerza de ventas de las empresas, pero estas pueden ser muy optimistas o muy pesimistas.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Juicio de los ejecutivos:</b> es un método que, al igual que el anterior, solo se basa en conjeturas de los ejecutivos.
+                    p <b>Juicio de los ejecutivos:</b> es un método que, al igual que el anterior, solo se basa en conjeturas de los ejecutivos.
                   li 
                     i.fas.fa-angle-right
-                    | <b>Participación de la fuerza de ventas:</b> es el pronóstico de ventas que realiza el equipo de fuerza de ventas, incluyendo los vendedores, distribuidores, supervisores, etc.
+                    p <b>Participación de la fuerza de ventas:</b> es el pronóstico de ventas que realiza el equipo de fuerza de ventas, incluyendo los vendedores, distribuidores, supervisores, etc.
                 
 
 </template>

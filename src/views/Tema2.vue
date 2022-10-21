@@ -91,7 +91,7 @@
               h3.mb-1 Ser empresario 
               p.text-small Anexo. Ser empresario en seis pasos. PDF – Ser empresario
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('downloads/serempresario.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-link
         .col-1

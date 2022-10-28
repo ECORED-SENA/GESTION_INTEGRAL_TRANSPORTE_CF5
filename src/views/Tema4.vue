@@ -9,7 +9,7 @@
       h1  Análisis factores de oferta y demanda, de acuerdo con productos y actividad empresarial
     
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 4.1 Factores determinantes de la oferta
+      .h2 4.1 Factores determinantes de la oferta
     
     p.mb-4(data-aos="fade-right") Elasticidad de la oferta: en economía se utiliza este factor como la razón existente ante un cambio en el precio del bien o servicio y la respuesta en la variación a la cantidad ofrecida. Existen cinco variaciones de esta medida
 
@@ -51,7 +51,7 @@
     separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 4.2	Técnicas para determinar la oferta y la demanda
+      .h2 4.2	Técnicas para determinar la oferta y la demanda
 
     p.mb-0(data-aos="fade-right") Para determinar el nivel de competitividad de las empresas, se deben estudiar las tendencias de la demanda, es decir, cómo los usuarios o consumidores realizan la adquisición de bienes o servicios.
     p.mb-4(data-aos="fade-right") Para lograrlo, se pueden emplear dos métodos, que son: métodos cuantitativos y métodos cualitativos, como se puede apreciar a continuación.

@@ -49,7 +49,7 @@
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.1	Clases, participación y evolución del sector
+      .h2 2.1	Clases, participación y evolución del sector
     
     p.mb-4(data-aos="fade-right") La participación del mercado y su distribución está conformada por la clase de competencia existente y los factores que lo determinan, tal como se puede observar en la siguiente imagen.
 
@@ -65,7 +65,7 @@
 
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.2	Plan de mercadeo
+      .h2 2.2	Plan de mercadeo
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-11
@@ -99,7 +99,7 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 2.3	Comportamiento del producto en el mercado
+      .h2 2.3	Comportamiento del producto en el mercado
 
     p.mb-5(data-aos="fade-right") Este acápite hace referencia al ciclo de vida del producto, que indica que todo producto aparece en el mercado, se desarrolla de diversas formas y termina desapareciendo cuando aparece un nuevo producto que satisface mejor las necesidades del consumidor o porque los consumidores cambian de gustos. Estos cuatro periodos son: 
 

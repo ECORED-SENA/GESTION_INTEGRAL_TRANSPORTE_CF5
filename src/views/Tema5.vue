@@ -65,7 +65,7 @@
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 5.1	Análisis de la matriz
+      .h2 5.1	Análisis de la matriz
     
     .row.justify-content-center.align-items-center.mb-5
       .col-md-4(data-aos="fade-right")
@@ -80,7 +80,7 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 5.2	Estudio de casos
+      .h2 5.2	Estudio de casos
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11

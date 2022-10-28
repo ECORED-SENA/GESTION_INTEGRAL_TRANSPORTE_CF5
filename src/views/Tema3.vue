@@ -12,7 +12,7 @@
     separador
     
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 3.1	Comportamientos, motivos y hábitos de compra
+      .h2 3.1	Comportamientos, motivos y hábitos de compra
     
     p.mb-4(data-aos="fade-right") Los consumidores han sido catalogados de muchas maneras, pero todos poseen unas características que los diferencian claramente.
 
@@ -20,7 +20,7 @@
     separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 3.2	Diagnóstico
+      .h2 3.2	Diagnóstico
 
     p.mb-4(data-aos="fade-right") El comportamiento de los compradores o consumidores, la identificación de sus necesidades y deseos, es el centro de atención del análisis. Esto tiene que ver con el tipo de consumidor y su análisis de conducta como comprador. De eso depende la gran importancia que se da a identificar y perfilar el tipo de consumidor, según el producto y el precio.
 

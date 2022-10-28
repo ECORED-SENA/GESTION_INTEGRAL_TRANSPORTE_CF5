@@ -160,12 +160,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -188,6 +182,10 @@ export default {
     ],
   },
   referencias: [
+    {
+      referencia:
+        'Burneo, K. y Larios, F. (2015). Principios De Economía. ECOE Ediciones.',
+    },
     {
       referencia: 'Enciclopedia Económica. (2020). Demanda de mercado.',
       link: 'https://enciclopediaeconomica.com/demanda-de-mercado/',

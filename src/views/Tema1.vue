@@ -13,7 +13,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 1.1. Conceptos básicos
+      .h2 1.1. Conceptos básicos
 
     .row.mb-4(data-aos="fade")
       .col-md-5
@@ -65,7 +65,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 1.2	Principios, pronósticos y métodos
+      .h2 1.2	Principios, pronósticos y métodos
 
     p.mb-0(data-aos="fade-right") El mercado está regido por unas características, leyes y factores, los cuales permiten realizar estudios y análisis a fin de comprender sus alcances, pronósticos y métodos de análisis.
     p.mb-4(data-aos="fade-right") A continuación, se presentan las características tanto de oferta como de demanda:
@@ -407,7 +407,7 @@
 
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 1.3	Actividades económicas
+      .h2 1.3	Actividades económicas
 
     p.mb-4(data-aos="fade-right") En este acápite, es preciso considerar las actividades económicas que son objeto de transporte, o sea las mercancías a transportar, los tipos, las condiciones y algunas características generales.
     p.mb-4(data-aos="fade-right") Para poder clasificar la mercancía, existen tres criterios, a saber:
@@ -603,7 +603,7 @@
     separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h4 1.4	Métodos de compra de mercancías
+      .h2 1.4	Métodos de compra de mercancías
 
     .row.mb-4
       .col-md-6(data-aos="fade-right")

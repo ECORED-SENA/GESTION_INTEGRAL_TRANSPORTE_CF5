@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Pronóstico de necesidades',
     descripcionCurso:
       'Determinar los actores de la cadena logística e identificar necesidades del cliente, de acuerdo con mercancías y actividades económicas.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

@@ -82,7 +82,7 @@
   height: 240px
   border-radius: 15px
   @media (max-width: 1400px)
-    height: auto
+    height: 100%
 
 .color-secundario .tarjeta-numerada__numero 
   background-image: url('../assets/curso/tema1/barco.png')
@@ -186,15 +186,45 @@
   border-top-left-radius: 200px;
 .lila-color
   background-color: #F6F2FF
-.wrap-ap
+
+.pos
+  margin-bottom: 0
+  margin-left: -2.2rem
+  @media (max-width: 768px)
+    margin-bottom: 0
+    margin-left: -0% !important
+
+.pos img
+  width: auto
+  max-width: none
+  @media (max-width: 768px)
+    width: auto
+    max-width: 100%
 
 .pos1
   margin-bottom: 0
   margin-left: -2.2rem
+  @media (max-width: 768px)
+    margin-bottom: 0
+    margin-left: -14% !important
 
 .pos1 img
   width: auto
   max-width: none
+
+.pos2
+  margin-bottom: 0
+  margin-left: -2.2rem
+  @media (max-width: 768px)
+    margin-bottom: 0
+    margin-left: -0% !important
+
+.pos2 img
+  width: auto
+  max-width: none
+  @media (max-width: 768px)
+    width: auto
+    max-width: 100%
 
 .tarjeta.color-fondo
   background-color: #FFBA5B
@@ -343,36 +373,36 @@
 
 .tarjeta-numerada.color-secundario5
   border-color: #FF6D4B
-  height: 320px
+  height: 100%
   @media (max-width: 1200px)
-    height: auto
+    height: 100%
 
 .tarjeta-numerada.color-secundario6 .tarjeta-numerada__numero 
   background-image: url('../assets/curso/tema3/2.png')
 
 .tarjeta-numerada.color-secundario6
   border-color: #FF6D4B
-  height: 320px
+  height: 100%
   @media (max-width: 1200px)
-    height: auto
+    height: 100%
 
 .tarjeta-numerada.color-secundario7 .tarjeta-numerada__numero 
   background-image: url('../assets/curso/tema3/3.png')
 
 .tarjeta-numerada.color-secundario7
   border-color: #FF6D4B
-  height: 320px
+  height: 100%
   @media (max-width: 1200px)
-    height: auto
+    height: 100%
 
 .tarjeta-numerada.color-secundario8 .tarjeta-numerada__numero 
   background-image: url('../assets/curso/tema3/4.png')
 
 .tarjeta-numerada.color-secundario8
   border-color: #FF6D4B
-  height: 320px
+  height: 100%
   @media (max-width: 1200px)
-    height: auto
+    height: 100%
 
 ////tema4
 
@@ -381,7 +411,7 @@
 
 ///tema5
 
-.tarjeta-numerada7
+.tarjeta-flip__contenido
   border-top: 30px solid
   border-right: 4px solid 
   border-bottom: 4px solid
@@ -389,34 +419,48 @@
   border-radius: 20px
   position: relative
   margin-left: 30px
-
-.tarjeta-numerada7.color-primario7
-  border-color: #FFBA5B
+  border-color: #FFBA5B !important
   height: 470px
   @media (max-width: 1200px)
     height: auto
 
-.tarjeta-numerada7.color-primario7 .tarjeta-numerada7__numero 
-  background-color: #FFBA5B
+.tarjeta-flip__img, .tarjeta-flip__contenido2
+  backface-visibility: hidden
 
-.tarjeta-numerada7__numero 
-  opacity: 0%
-  border-radius: 40px
-  width: 70px
-  height: 70px
-  display: inline-block
+.tarjeta-flip__img 
   position: absolute
-  left: -10px
-  top: 25px
-  transform: translateX(-50%)
-  
-.tarjeta-numerada7__numero div 
-  position: absolute
-  left: 50%
-  top: 50%
-  transform: translate(-50%, -50%)
+  inset: 0
+  background-size: cover
+  background-position: center
+
+.tarjeta-flip.tarjeta .tarjeta-flip__img, .tarjeta-flip.tarjeta .tarjeta-flip__contenido2
+  border-radius: 20px
+  overflow: hidden
+
+.tarjeta-flip__contenido2
+  height: auto
+
+.tarjeta-flip__contenido2
+  transform: rotateY(180deg)
+  height: 100%
+
+.tarjeta-flip__contenido2
+  border-top: 30px solid
+  border-right: 4px solid 
+  border-bottom: 4px solid
+  border-left: 4px solid
+  border-radius: 20px
+  position: relative
+  margin-left: 30px
+  border-color: #FF7758 !important
+  height: 470px
+  @media (max-width: 1200px)
+    height: auto
 
 ///
+
+.lista-ul--color li > i:first-of-type
+    color: #FF7758
 
 .tarjeta-numerada8
   border-top: 30px solid
@@ -452,3 +496,50 @@
   left: 50%
   top: 50%
   transform: translate(-50%, -50%)
+
+.img123
+  position: relative
+  bottom: 0
+  left: 6.5%
+  @media (max-width: 997px)
+    position: relative
+    bottom: 0
+    left: 0
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  border-bottom-color: #FFBA5B !important
+  font-weight: bold
+
+.med
+  width: 15% !important
+
+.med1
+  width: 50%
+
+.med2
+  width: 50%
+
+.med3
+  width: 80px !important
+
+.tabla-b td, .tabla-b th
+  border: none
+  padding: 20px 30px
+
+.tabla-a table
+  min-width: 100%
+
+.tabs-a__tab
+  display: block
+  width: 100%
+  text-align: left
+  background-color: #E8E8E8
+  padding: 15px 20px
+  border-radius: 5px
+  color: #111e61
+  line-height: 1.2em
+
+.tabla-b thead 
+  border-top: 0px solid
+  color: #111e61
+  background-color: #e8e8e8

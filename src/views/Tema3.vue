@@ -44,33 +44,33 @@
     p.mb-5(data-aos="fade-right") Los tipos o características de los consumidores están íntimamente ligados a su personalidad, específicamente en los aspectos culturales, sociales y psicológicos. 
 
     .row.mb-5(data-aos="fade")
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario5.p-5
+      .col-md-6.col-lg-3.mb-5.mb-lg-4 
+        .tarjeta-numerada.color-secundario5.px-3.py-5
           .tarjeta-numerada__numero
             .h2 
           h5 Culturales:
-          p incluyen aspectos de subcultura, inmersión social por preferencias o gustos aprendidos de su entorno familiar o comunitario.
+          p.mb-0 incluyen aspectos de subcultura, inmersión social por preferencias o gustos aprendidos de su entorno familiar o comunitario.
 
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario6.p-5
+      .col-md-6.col-lg-3.mb-5.mb-lg-4 
+        .tarjeta-numerada.color-secundario6.px-3.py-5
           .tarjeta-numerada__numero
             .h2
           h5 Sociales:
-          p que afectan la elección de modelos o marcas por influencia de grupos sociales, académicos o profesionales.
+          p.mb-0 que afectan la elección de modelos o marcas por influencia de grupos sociales, académicos o profesionales.
 
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario7.p-5
+      .col-md-6.col-lg-3.mb-5.mb-lg-4 
+        .tarjeta-numerada.color-secundario7.px-3.py-5
           .tarjeta-numerada__numero
             .h2
           h5 Personales:
-          p son características que influyen en la elección de las compras, por factores de edad, sexo, profesión, estrato o capacidad económica. 
+          p.mb-0 son características que influyen en la elección de las compras, por factores de edad, sexo, profesión, estrato o capacidad económica. 
 
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario8.p-5
+      .col-md-6.col-lg-3.mb-5.mb-lg-4 
+        .tarjeta-numerada.color-secundario8.px-3.py-5
           .tarjeta-numerada__numero
             .h2
           h5 Psicológicos:
-          p que incluyen los comportamientos actitudinales, motivacionales y hábitos o conductas.
+          p.mb-0 que incluyen los comportamientos actitudinales, motivacionales y hábitos o conductas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10

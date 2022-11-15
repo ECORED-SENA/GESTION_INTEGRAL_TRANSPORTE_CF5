@@ -16,38 +16,99 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11
         .bloque-texto-a.color-secundario2.mb-5.p-3.py-0
-          .row.m-0.align-items-center.justify-content-between
+          .row.m-0.align-items-end.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
               .wrap-ap
-                figure.pos1
+                figure.pos
                   img(src='@/assets/curso/tema4/img1.jpg', alt='Cajas')
             .col-lg-10
-              .bloque-texto-a__texto.p-4.blanco-color 
-                ul.lista-ul--color.mb-0
-                  li 
-                    i.fas.fa-angle-right
-                    | Se denomina oferta inelástica cuando la razón es menor que uno. 
-                  li 
-                    i.fas.fa-angle-right
-                    | Se denomina oferta elástica cuando la razón es mayor que uno. 
-                  li 
-                    i.fas.fa-angle-right
-                    | Es perfectamente inelástica cuando su razón es cero lo que indica que la cantidad no cambia con la variación en el precio.
-                  li 
-                    i.fas.fa-angle-right
-                    | Unitaria cuando la razón es uno.
-                  li 
-                    i.fas.fa-angle-right
-                    | Perfectamente elástica cuando la razón tiende al infinito, lo que significa que, ante un incremento pequeño en el precio, se genera una disminución infinitamente grande en la cantidad ofrecida.
+              .bloque-texto-a__texto.p-4.blanco-color.mb-2
+                .row 
+                  .col-lg-1
+                    span
+                  .col-lg-11
+                    ul.lista-ul--color.mb-0
+                      li 
+                        i.fas.fa-angle-right
+                        | Se denomina oferta inelástica cuando la razón es menor que uno. 
+                      li 
+                        i.fas.fa-angle-right
+                        | Se denomina oferta elástica cuando la razón es mayor que uno. 
+                      li 
+                        i.fas.fa-angle-right
+                        | Es perfectamente inelástica cuando su razón es cero lo que indica que la cantidad no cambia con la variación en el precio.
+                      li 
+                        i.fas.fa-angle-right
+                        | Unitaria cuando la razón es uno.
+                      li 
+                        i.fas.fa-angle-right
+                        | Perfectamente elástica cuando la razón tiende al infinito, lo que significa que, ante un incremento pequeño en el precio, se genera una disminución infinitamente grande en la cantidad ofrecida.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
           span - Tipos de elasticidad de la oferta
-        figure
-          img(src='@/assets/curso/tema4/tabla1.svg', alt='consumidores')
-          figcaption Nota. Tomada de Yirepa (s.f.)
+      .tabla-b
+        table
+          caption Nota. Tomada de Yirepa (s.f.)
+          thead
+            tr(style='background-color: #FFBAAB')
+              th.h4.text-center(style='background-color: #FFDCAC') Tipo
+              th.h4.text-center Perfectamente Inelástica
+              th.h4.text-center Inelástica
+              th.h4.text-center Unitaria
+              th.h4.text-center Elástica
+              th.h4.text-center Perfactamente Elástica
+          tbody
+            tr(style='background-color: #FFFFFF')
+              td.h4.text-center(style='background-color: #FFDCAC') Variaciones
+              td.text-center Var. %Q = 0
+              td.text-center Var. % Q < Var. % P
+              td.text-center Var. % Q < Var. % P
+              td.text-center Var. % Q < Var. % P
+              td.text-center Var. % P= 0
+            tr(style='background-color: #FFFFFF')
+              td.h4.text-center(style='background-color: #FFDCAC') Ep
+              td.text-center 0
+              td.text-center > 0 pero < 1
+              td.text-center 1
+              td.text-center > 1 pero < ∞
+              td.text-center ∞
+            tr(style='background-color: #FFFFFF')
+              td.h4.text-center(style='background-color: #FFDCAC') Var. de Q
+              td.text-center No Varía
+              td.text-center Varía menos que proporcional
+              td.text-center Varía directamente proporcional
+              td.text-center Varía más que proporcional
+              td.text-center Varía permaneciendo constante el precio
+            tr(style='background-color: #FFFFFF')
+              td.h4.text-center(style='background-color: #FFDCAC') Curva de demanda
+              td
+                .row.p-2
+                  .col-lg-12
+                    figure
+                      img(src='@/assets/curso/tema4/fig1.svg', alt='')
+              td 
+                .row.p-2
+                  .col-lg-12
+                    figure
+                      img(src='@/assets/curso/tema4/fig2.svg', alt='')
+              td
+                .row.p-2
+                  .col-lg-12
+                    figure
+                      img(src='@/assets/curso/tema4/fig3.svg', alt='')
+              td
+                .row.p-2
+                  .col-lg-12
+                    figure
+                      img(src='@/assets/curso/tema4/fig4.svg', alt='')
+              td
+                .row.p-2
+                  .col-lg-12
+                    figure
+                      img(src='@/assets/curso/tema4/fig5.svg', alt='')
     separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -56,11 +117,11 @@
     p.mb-0(data-aos="fade-right") Para determinar el nivel de competitividad de las empresas, se deben estudiar las tendencias de la demanda, es decir, cómo los usuarios o consumidores realizan la adquisición de bienes o servicios.
     p.mb-4(data-aos="fade-right") Para lograrlo, se pueden emplear dos métodos, que son: métodos cuantitativos y métodos cualitativos, como se puede apreciar a continuación.
 
-    .row 
-      .col-md-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-4.col-md-4.col-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema4/img2.jpg', alt='Hombre con computadora')
-      .col-md-8(data-aos="fade-left")
+      .col-lg-8.col-md-12.col-12(data-aos="fade-left")
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="Cuantitativos")
             .row.p-2

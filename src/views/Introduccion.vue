@@ -20,12 +20,12 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4
-        figure.mb-0
+        figure.mb-3
           img.img123(src='@/assets/curso/introduccion/img1.png', alt='Paquetes de cajas para enviar')
       .col-lg-8
-        .tarjeta.color-linea--borde.mb-0
-            p.mb-3 Basados en el anterior concepto, se incursionará en eslabones como: 
-            ul.lista-ul--color.mb-2
+        .tarjeta.color-linea--borde.mb-0.px-4.py-4
+            p.mb-2 Basados en el anterior concepto, se incursionará en eslabones como: 
+            ul.lista-ul--color.mb-0
               li.mb-0 
                 i.fas.fa-angle-right
                 | Tipos de mercado. 
@@ -39,7 +39,7 @@
                 i.fas.fa-angle-right
                 | Y adquisición de estos bienes o servicios, lo que se denomina demanda de los mismos.
 
-            p Es aquí donde confluyen los factores de la demanda y la oferta de bienes y servicios. 
+            p.mb-2 Es aquí donde confluyen los factores de la demanda y la oferta de bienes y servicios. 
 
                
 

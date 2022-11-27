@@ -15,14 +15,14 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11
-        .bloque-texto-a.color-secundario2.mb-5.p-3.py-0
+        .bloque-texto-a.color-secundario2.mb-5.p-2.py-0
           .row.m-0.align-items-end.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
               .wrap-ap
                 figure.pos
                   img(src='@/assets/curso/tema4/img1.jpg', alt='Cajas')
             .col-lg-10
-              .bloque-texto-a__texto.p-4.blanco-color.mb-2
+              .bloque-texto-a__texto.px-2.py-3.blanco-color.mb-2
                 .row 
                   .col-lg-1
                     span
@@ -54,57 +54,57 @@
           caption Nota. Tomada de Yirepa (s.f.)
           thead
             tr(style='background-color: #FFBAAB')
-              th.h4.text-center(style='background-color: #FFDCAC') Tipo
-              th.h4.text-center Perfectamente Inelástica
-              th.h4.text-center Inelástica
-              th.h4.text-center Unitaria
-              th.h4.text-center Elástica
-              th.h4.text-center Perfactamente Elástica
+              th.h4.text-center.bordetabla(style='background-color: #FFDCAC') Tipo
+              th.h4.text-center.bordetabla Perfectamente Inelástica
+              th.h4.text-center.bordetabla Inelástica
+              th.h4.text-center.bordetabla Unitaria
+              th.h4.text-center.bordetabla Elástica
+              th.h4.text-center.bordetabla Perfactamente Elástica
           tbody
             tr(style='background-color: #FFFFFF')
-              td.h4.text-center(style='background-color: #FFDCAC') Variaciones
-              td.text-center Var. %Q = 0
-              td.text-center Var. % Q < Var. % P
-              td.text-center Var. % Q < Var. % P
-              td.text-center Var. % Q < Var. % P
-              td.text-center Var. % P= 0
+              td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Variaciones
+              td.text-center.bordetabla Var. %Q = 0
+              td.text-center.bordetabla Var. % Q < Var. % P
+              td.text-cente.bordetablar Var. % Q < Var. % P
+              td.text-center.bordetabla Var. % Q < Var. % P
+              td.text-center.bordetabla Var. % P= 0
             tr(style='background-color: #FFFFFF')
-              td.h4.text-center(style='background-color: #FFDCAC') Ep
-              td.text-center 0
-              td.text-center > 0 pero < 1
-              td.text-center 1
-              td.text-center > 1 pero < ∞
-              td.text-center ∞
+              td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Ep
+              td.text-center.bordetabla 0
+              td.text-center.bordetabla > 0 pero < 1
+              td.text-center.bordetabla 1
+              td.text-center.bordetabla > 1 pero < ∞
+              td.text-center.bordetabla ∞
             tr(style='background-color: #FFFFFF')
-              td.h4.text-center(style='background-color: #FFDCAC') Var. de Q
-              td.text-center No Varía
-              td.text-center Varía menos que proporcional
-              td.text-center Varía directamente proporcional
-              td.text-center Varía más que proporcional
-              td.text-center Varía permaneciendo constante el precio
+              td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Var. de Q
+              td.text-center.bordetabla No Varía
+              td.text-center.bordetabla Varía menos que proporcional
+              td.text-center.bordetabla Varía directamente proporcional
+              td.text-center.bordetabla Varía más que proporcional
+              td.text-center.bordetabla Varía permaneciendo constante el precio
             tr(style='background-color: #FFFFFF')
-              td.h4.text-center(style='background-color: #FFDCAC') Curva de demanda
-              td
+              td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Curva de demanda
+              td.bordetabla
                 .row.p-2
                   .col-lg-12
                     figure
                       img(src='@/assets/curso/tema4/fig1.svg', alt='')
-              td 
+              td.bordetabla
                 .row.p-2
                   .col-lg-12
                     figure
                       img(src='@/assets/curso/tema4/fig2.svg', alt='')
-              td
+              td.bordetabla
                 .row.p-2
                   .col-lg-12
                     figure
                       img(src='@/assets/curso/tema4/fig3.svg', alt='')
-              td
+              td.bordetabla
                 .row.p-2
                   .col-lg-12
                     figure
                       img(src='@/assets/curso/tema4/fig4.svg', alt='')
-              td
+              td.bordetabla
                 .row.p-2
                   .col-lg-12
                     figure

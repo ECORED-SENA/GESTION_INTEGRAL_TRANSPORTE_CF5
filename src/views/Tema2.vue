@@ -15,7 +15,7 @@
         .row.justify-content-center
           .col-lg-12.mb-5
             .row.justify-content-center(@mouseover="mostrarIndicador = false")
-              .col-lg-4.col-md-6.col-10
+              .col-lg-3.col-md-6.col-10
                 .tarjeta-avatar1
                   img(src='@/assets/curso/tema2/avatar1.svg' alt='AvatarTop')
                   .tarjeta-numerada1.text-center.tarjeta_t5.p-4.shadow.ind--click_tarjetas(data-aos="fade-right")
@@ -23,7 +23,7 @@
                     p En función del tipo de producto que se oferte o se compre.
                     .tarjeta-numerada1__contenido
                     
-              .col-lg-4.col-md-6.col-10
+              .col-lg-3.col-md-6.col-10
                 .tarjeta-avatar1
                   img(src='@/assets/curso/tema2/avatar2.svg' alt='AvatarTop')
                   .tarjeta-numerada1.text-center.tarjeta_t5.p-4.shadow.ind--click_tarjetas(data-aos="fade-right")
@@ -31,7 +31,7 @@
                     p El perfil del comprador.
                     .tarjeta-numerada1__contenido
 
-              .col-lg-4.col-md-6.col-10
+              .col-lg-3.col-md-6.col-10
                 .tarjeta-avatar1
                   img(src='@/assets/curso/tema2/avatar3.svg' alt='AvatarTop')
                   .tarjeta-numerada1.text-center.tarjeta_t5.p-4.shadow.ind--click_tarjetas(data-aos="fade-right")
@@ -39,7 +39,7 @@
                     p La competencia que puede haber.
                     .tarjeta-numerada1__contenido
 
-              .col-lg-4.col-md-6.col-10
+              .col-lg-3.col-md-6.col-10
                 .tarjeta-avatar1
                   img(src='@/assets/curso/tema2/avatar4.svg' alt='AvatarTop')
                   .tarjeta-numerada1.text-center.tarjeta_t5.p-4.shadow.ind--click_tarjetas(data-aos="fade-right")
@@ -71,9 +71,9 @@
       .col-lg-11.col-12
         .bloque-texto-a.color-secundario2.mb-5.p-4.py-0
           .row.align-items-center.justify-content-between
-            .col-lg-3.col-6
+            .col-lg-3.col-12
               figure.pos1
-                img(src='@/assets/curso/tema2/img1.jpg', alt='Un pasaporte abierto')
+                img(src='@/assets/curso/tema2/img1.jpg', alt='')
             .col-lg-9.col-12
               .bloque-texto-a__texto.p-4.lila-color 
                 p.mb-3 Llamado también estrategias de comercialización o plan de <i>Marketing,</i> tiene por objetivo ofrecer los bienes o servicios producidos en un tiempo determinado y a una población específica. El SENA ha incursionado en la estructuración de documentos para el emprendimiento y en ellos pueden verse ejemplos de planes de mercadeo y comercialización.
@@ -112,8 +112,7 @@
               figure
                 img(src='@/assets/curso/tema2/icon.svg', alt='Un pasaporte abierto')
             .col-lg-7.col-6
-              p.mb-0
-                b Introducción:
+              h4.mb-0 Introducción:
           p.text-center Es el periodo de lanzamiento o presentación del producto y su crecimiento es lento.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -125,8 +124,7 @@
               figure
                 img(src='@/assets/curso/tema2/icon.svg', alt='Un pasaporte abierto')
             .col-lg-7.col-6
-              p.mb-0
-                b Crecimiento:
+              h4.mb-0 Crecimiento:
           p.text-center.mb-2 Es el periodo o etapa en que mejoran las ventas en forma considerable.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -138,8 +136,7 @@
               figure
                 img(src='@/assets/curso/tema2/icon.svg', alt='Un pasaporte abierto')
             .col-lg-7.col-6
-              p.mb-0
-                b Madurez: 
+              h4.mb-0 Madurez: 
           p.text-center Es el periodo en que, sin variar los volúmenes, las ventas se mantienen altas.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -151,8 +148,7 @@
               figure
                 img(src='@/assets/curso/tema2/icon.svg', alt='Un pasaporte abierto')
             .col-lg-7.col-6
-              p.mb-0
-                b Declive:
+              h4.mb-0 Declive:
           p.text-center Última etapa del producto, que llega cuando ya no se venda.
 
 

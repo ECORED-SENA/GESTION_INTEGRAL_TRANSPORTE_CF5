@@ -42,31 +42,31 @@
       h3.mb-0 Tipos
 
     p.mb-5(data-aos="fade-right") Los tipos o características de los consumidores están íntimamente ligados a su personalidad, específicamente en los aspectos culturales, sociales y psicológicos. 
-
+    br
     .row.mb-5(data-aos="fade")
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
-        .tarjeta-numerada.color-secundario5.px-3.py-5
+        .tarjeta-numerada.color-secundario5.px-2.py-4
           .tarjeta-numerada__numero
             .h2 
           h5 Culturales:
           p.mb-0 incluyen aspectos de subcultura, inmersión social por preferencias o gustos aprendidos de su entorno familiar o comunitario.
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
-        .tarjeta-numerada.color-secundario6.px-3.py-5
+        .tarjeta-numerada.color-secundario6.px-2.py-4
           .tarjeta-numerada__numero
             .h2
           h5 Sociales:
           p.mb-0 que afectan la elección de modelos o marcas por influencia de grupos sociales, académicos o profesionales.
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
-        .tarjeta-numerada.color-secundario7.px-3.py-5
+        .tarjeta-numerada.color-secundario7.px-2.py-4
           .tarjeta-numerada__numero
             .h2
           h5 Personales:
           p.mb-0 son características que influyen en la elección de las compras, por factores de edad, sexo, profesión, estrato o capacidad económica. 
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
-        .tarjeta-numerada.color-secundario8.px-3.py-5
+        .tarjeta-numerada.color-secundario8.px-2.py-4
           .tarjeta-numerada__numero
             .h2
           h5 Psicológicos:

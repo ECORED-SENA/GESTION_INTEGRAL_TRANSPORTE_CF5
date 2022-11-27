@@ -204,82 +204,82 @@
 
     p.mb-4(data-aos="fade-right") A partir de las leyes de oferta y demanda, se conciben ocho principios que se describen como cambios en el equilibrio del mercado, de la siguiente manera:
 
-    .row.mb-0(data-aos="fade")
-      .col-lg-3.col-md-6
+    .row.mb-4(data-aos="fade")
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 1
               p Si la demanda aumenta (se desplaza hacia la derecha), entonces el precio sube y la cantidad sube.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 2
               p Si la demanda disminuye (se desplaza hacia la izquierda), el precio baja y la cantidad baja.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon3.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 3
               p Si la oferta disminuye (se desplaza hacia la izquierda), el precio sube y la cantidad baja.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon4.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 4
               p Si la oferta aumenta (se desplaza hacia la derecha), el precio baja, la cantidad sube.
       
-    .row.mb-4(data-aos="fade")
-      .col-lg-3.col-md-6
+    .row.mb-2(data-aos="fade")
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 5
               p Si la demanda aumenta, la oferta disminuye, el precio sube, el cambio en la cantidad es indeterminado.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 6
               p Si la demanda disminuye, la oferta aumenta, el precio baja y el cambio en la cantidad es indeterminado.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon5.png', alt='icono')
             .col-lg-8.col-md-8.col-8
               h5 Principio 7
               p Si la demanda aumenta, la oferta aumenta, el cambio en el precio es indeterminado y la cantidad sube.
 
-      .col-lg-3.col-md-6
+      .col-lg-3.col-md-6.mb-4
         .bloque-texto-a.color-secundario.p-3.mb-4
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.col-md-4.col-4.mb-2.mb-lg-0
+          .row.align-items-center.justify-content-between
+            .col-lg-4.col-md-4.col-4.mb-2
               figure
                 img(src='@/assets/curso/tema1/icon2.png', alt='icono')
             .col-lg-8.col-md-8.col-8
@@ -445,38 +445,38 @@
 
     p.mb-5(data-aos="fade-right") <b>Relación de volúmenes por peso de flete en cada modo de transporte.</b>
 
-    .row.mb-5(data-aos="fade")
-      .col-md-6.col-xl.mb-5.mb-xl-0
+    .row.justify-content-center.mb-5(data-aos="fade")
+      .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario.p-5
           .tarjeta-numerada__numero
             .h2 
-          p.text-center Volumen peso Flete
-          p.text-center <b>Flete Marítimo</b>
-          p.text-center 1m3 = 1 Tonelada
+          p Volumen peso Flete
+          p <b>Flete Marítimo</b>
+          p 1m3 = 1 Tonelada
 
-      .col-md-6.col-xl.mb-5.mb-xl-0
+      .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario2.p-5
           .tarjeta-numerada__numero
             .h2 
-          p.text-center Volumen peso Flete
-          p.text-center <b>Flete Aéreo</b>
-          p.text-center 1m3 = 6 Toneladas
+          p Volumen peso Flete
+          p <b>Flete Aéreo</b>
+          p 1m3 = 6 Toneladas
 
-      .col-md-6.col-xl.mb-5.mb-xl-0
+      .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario3.p-5
           .tarjeta-numerada__numero
             .h2 
-          p.text-center Volumen peso Flete
-          p.text-center <b>Flete Ferroviario</b>
-          p.text-center 1m3 = 4 Toneladas
+          p Volumen peso Flete
+          p <b>Flete Ferroviario</b>
+          p 1m3 = 4 Toneladas
 
-      .col-md-6.col-xl.mb-5.mb-xl-0
+      .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario4.p-5
           .tarjeta-numerada__numero
             .h2 
-          p.text-center Volumen peso Flete
-          p.text-center <b>Flete Carretero</b>
-          p.text-center 1m3 = 2.5 Toneladas
+          p Volumen peso Flete
+          p <b>Flete Carretero</b>
+          p 1m3 = 2.5 Toneladas
 
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-7.col-md-12(data-aos="fade-right")
@@ -489,9 +489,9 @@
 
         .tarjeta.color-1.p-2.p-md-4.mb-4
           .row.justify-content-around.align-items-center
-            .col-lg-2.col-md-4.col-2
+            .col-lg-2.col-md-4.col-3
               img(src="@/assets/curso/tema1/icon6.png")
-            .col-lg-10.col-md-8.col-10                             
+            .col-lg-10.col-md-8.col-12                             
               a.anexo.mb-4(:href="obtenerLink('downloads/anexo.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
@@ -510,7 +510,7 @@
     p.mb-4(data-aos="fade-right") Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases
 
     .row.justify-content-center.mb-2(data-aos="fade")
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
             .col-3
@@ -520,7 +520,7 @@
               h5 Clase 1:
               p Materias y objetos explosivos
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
             .col-3
@@ -530,7 +530,7 @@
               h5 Clase 2:
               p Gases
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
           .row.justify-content-center
             .col-3
@@ -540,7 +540,7 @@
               h5 Clase 3:
               p Líquidos inflamables
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-3
           .row.justify-content-center
             .col-3
@@ -550,7 +550,7 @@
               h5 Clase 4:
               p Sólidos inflamables, con subclasificaciones llamadas divisiones.
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
             .col-3
@@ -560,7 +560,7 @@
               h5 Clase 5:
               p Comburentes y peróxidos orgánicos
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
           .row.justify-content-center
             .col-3
@@ -570,7 +570,7 @@
               h5 Clase 6:
               p Sustancias tóxicas e infecciosas
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
             .col-3
@@ -580,7 +580,7 @@
               h5 Clase 7:
               p Materiales radiactivos
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.p-4
           .row.justify-content-center
             .col-3
@@ -590,7 +590,7 @@
               h5 Clase 8:
               p Sustancias corrosivas
 
-      .col-sm-8.col-lg-4.col-md-6.mb-4
+      .col-lg-4.col-md-8.mb-4
         .tarjeta--boton.color-acento-contenido.text-white--hover.p-3
           .row.justify-content-center
             .col-3

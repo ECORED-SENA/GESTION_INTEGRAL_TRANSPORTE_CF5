@@ -32,9 +32,9 @@
   background-color: #fff
   color: #12263f;
   border: 2px solid #E1DAF5
-  padding: 10px
   border-radius: 0px
   margin: 0px
+  height: 208px
 
 .tarjeta.color-primario *
   color: #000000
@@ -110,16 +110,16 @@
   width: 70px;
   height: 70px;
   display: inline-block;
-  position: absolute;
-  left: 60px;
-  top: -35px;
+  position: absolute
+  left: 60px
+  top: -50px
   transform: translateX(-50%);
 
 .tarjeta-numerada 
-  border: solid 4px;
-  border-radius: 0px;
-  position: relative;
-  margin-left: 30px;
+  border: solid 4px
+  border-radius: 0px
+  position: relative
+  margin-left: 0px
 
 .color-1
   background-color: #FFDDAD
@@ -206,11 +206,14 @@
   margin-left: -2.2rem
   @media (max-width: 768px)
     margin-bottom: 0
-    margin-left: -14% !important
+    margin-left: 0% !important
 
 .pos1 img
   width: auto
   max-width: none
+  @media (max-width: 768px)
+    width: 100%
+    max-width: none
 
 .pos2
   margin-bottom: 0
@@ -512,6 +515,8 @@
 
 .med
   width: 15% !important
+  @media (max-width: 768px)
+    width: 25% !important
 
 .med1
   width: 50%
@@ -543,3 +548,7 @@
   border-top: 0px solid
   color: #111e61
   background-color: #e8e8e8
+
+.bordetabla
+  border-bottom: 2px solid #E8E8E8 !important
+  border-right: 2px solid #E8E8E8 !important

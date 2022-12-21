@@ -48,35 +48,35 @@
         .tarjeta-numerada.color-secundario5.px-2.py-4
           .tarjeta-numerada__numero
             .h2 
-          h5 Culturales:
+          h4 Culturales:
           p.mb-0 incluyen aspectos de subcultura, inmersión social por preferencias o gustos aprendidos de su entorno familiar o comunitario.
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
         .tarjeta-numerada.color-secundario6.px-2.py-4
           .tarjeta-numerada__numero
             .h2
-          h5 Sociales:
+          h4 Sociales:
           p.mb-0 que afectan la elección de modelos o marcas por influencia de grupos sociales, académicos o profesionales.
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
         .tarjeta-numerada.color-secundario7.px-2.py-4
           .tarjeta-numerada__numero
             .h2
-          h5 Personales:
+          h4 Personales:
           p.mb-0 son características que influyen en la elección de las compras, por factores de edad, sexo, profesión, estrato o capacidad económica. 
 
       .col-md-6.col-lg-3.mb-5.mb-lg-4 
         .tarjeta-numerada.color-secundario8.px-2.py-4
           .tarjeta-numerada__numero
             .h2
-          h5 Psicológicos:
+          h4 Psicológicos:
           p.mb-0 que incluyen los comportamientos actitudinales, motivacionales y hábitos o conductas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6
-          span - Clases de mercado  
+          h5 Figura 7
+          span Factores que influyen en el comportamiento del consumidor 
         figure
           img(src='@/assets/curso/tema3/infografica.png', alt='consumidores')
           figcaption Nota. Tomada de SENA (2021).

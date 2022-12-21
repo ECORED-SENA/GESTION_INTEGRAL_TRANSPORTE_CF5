@@ -288,6 +288,9 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-9.col-md-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 5
+          span Cambios de oferta y demanda y efectos en el equilibrio de mercado
         .tabla-a.color-acento-contenido.mb-5 
           table
             caption.mb-0 Nota. Tomada de Martínez (2020).
@@ -452,7 +455,7 @@
             .h2 
           p Volumen peso Flete
           p <b>Flete Marítimo</b>
-          p 1m3 = 1 Tonelada
+          p 1m<sup>3</sup> = 1 Tonelada
 
       .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario2.p-5
@@ -460,7 +463,7 @@
             .h2 
           p Volumen peso Flete
           p <b>Flete Aéreo</b>
-          p 1m3 = 6 Toneladas
+          p 1m<sup>3</sup> = 6 Toneladas
 
       .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario3.p-5
@@ -468,7 +471,7 @@
             .h2 
           p Volumen peso Flete
           p <b>Flete Ferroviario</b>
-          p 1m3 = 4 Toneladas
+          p 1m<sup>3</sup> = 4 Toneladas
 
       .col-md-6.col-xl.mb-5.col-8
         .tarjeta-numerada.color-secundario4.p-5
@@ -476,7 +479,7 @@
             .h2 
           p Volumen peso Flete
           p <b>Flete Carretero</b>
-          p 1m3 = 2.5 Toneladas
+          p 1m<sup>3</sup> = 2.5 Toneladas
 
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-7.col-md-12(data-aos="fade-right")
@@ -487,10 +490,10 @@
 
         p.mb-4 La clasificación se realiza según el tipo de mercancía, organizada por tipos versus modos de transporte:
 
-        .tarjeta.color-1.p-2.p-md-4.mb-4
+        .tarjeta.color-1.p-3.p-md-4.mb-4
           .row.justify-content-around.align-items-center
             .col-lg-2.col-md-4.col-3
-              img(src="@/assets/curso/tema1/icon6.png")
+              img.mb-4(src="@/assets/curso/tema1/icon6.png")
             .col-lg-10.col-md-8.col-12                             
               a.anexo.mb-4(:href="obtenerLink('downloads/anexo.pdf')" target="_blank")
                 .anexo__icono
@@ -507,7 +510,7 @@
         span 
       h3.mb-0 Tercer criterio
 
-    p.mb-4(data-aos="fade-right") Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases
+    p.mb-4(data-aos="fade-right") Es por la peligrosidad de la carga, lo cual se denomina transporte de mercancías peligrosas, y están codificadas más de 15.000 sustancias consideradas peligrosas. Para estandarizar su clasificación, la ONU ha codificado su peligrosidad en nueve clases.
 
     .row.justify-content-center.mb-2(data-aos="fade")
       .col-lg-4.col-md-8.mb-4
@@ -600,9 +603,9 @@
               h5 Clase 9:
               p Sustancias y objetos peligrosos varios
 
-    p.mb-4(data-aos="fade-right") Puede acceder al documento publicado por la ONU, denominado <b>Recomendaciones Relativas al Transporte de Mercancías Peligrosas</b>, del cual hay dos volúmenes, desde aquí.
+    p.mb-4(data-aos="fade-right") Puede acceder al documento publicado por la ONU, denominado <b>Recomendaciones Relativas al Transporte de Mercancías Peligrosas</b>, del cual hay dos volúmenes, desde <a href="https://unece.org/fileadmin/DAM/trans/danger/publi/unrec/rev21/ST-SG-AC10-1r21s_Vol1_WEB.pdf">aquí.</a>
 
-    p.mb-4(data-aos="fade-right") Igualmente, la ONU ha publicado un documento titulado <b>Guía de Respuesta en Caso de Emergencia</b> que popularmente se denomina <b>“Libro Naranja”</b>, el cual es una guía destinada al uso de los primeros respondedores durante la fase inicial de un incidente en el transporte que involucre mercancías peligrosas/materiales peligrosos. Puede consultarlo aquí
+    p.mb-4(data-aos="fade-right") Igualmente, la ONU ha publicado un documento titulado <b>Guía de Respuesta en Caso de Emergencia</b> que popularmente se denomina <b>“Libro Naranja”</b>, el cual es una guía destinada al uso de los primeros respondedores durante la fase inicial de un incidente en el transporte que involucre mercancías peligrosas/materiales peligrosos. Puede consultarlo <a href="https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/2020-07/GRE2020-WEB.pdf">aquí.</a>
     separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

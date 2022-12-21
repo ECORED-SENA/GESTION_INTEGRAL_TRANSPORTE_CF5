@@ -21,7 +21,7 @@
                 img(src='@/assets/curso/tema5/1.png', alt='Cadena rota' style="width: 90px")
               p
                 b Debilidades:
-              p es el análisis de los factores de los que carece la organización y cuya ausencia no permite el desarrollo de todas sus potencialidades, con lo cual se genera una desventaja frente a los competidores.
+              p Es el análisis de los factores de los que carece la organización y cuya ausencia no permite el desarrollo de todas sus potencialidades, con lo cual se genera una desventaja frente a los competidores.
 
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -33,7 +33,7 @@
                 img(src='@/assets/curso/tema5/2.png', alt='Cadena rota' style="width: 90px")
               p
                 b Oportunidades:
-              p factores positivos de la organización que resultan claves para potencializar sus recursos, objetivos y metas, los cuales generan ventajas frente a la competencia.
+              p Factores positivos de la organización que resultan claves para potencializar sus recursos, objetivos y metas, los cuales generan ventajas frente a la competencia.
 
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -44,7 +44,7 @@
                 img(src='@/assets/curso/tema5/3.png', alt='Cadena rota' style="width: 90px")
               p
                 b Fortalezas: 
-              p generalmente se definen como el potencial del recurso humano, las capacidades, habilidades, nivel de competencia y adaptación al cambio. Estos recursos generan grandes ventajas frente a la competencia.
+              p Generalmente se definen como el potencial del recurso humano, las capacidades, habilidades, nivel de competencia y adaptación al cambio. Estos recursos generan grandes ventajas frente a la competencia.
 
       .col-sm-6.col-xl-3
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -55,14 +55,14 @@
                 img(src='@/assets/curso/tema5/4.png', alt='Cadena rota' style="width: 90px")
               p
                 b Amenazas:
-              p situaciones que no provienen del interior de la organización, sino del medio en que desarrolla sus operaciones, siendo muy importante detectarlas y dominarlas pues su persistencia puede acabar con su vida jurídica. 
+              p Situaciones que no provienen del interior de la organización, sino del medio en que desarrolla sus operaciones, siendo muy importante detectarlas y dominarlas pues su persistencia puede acabar con su vida jurídica. 
         
     .row.justify-content-center.align-items-center.mb-5
       .col-md-4(data-aos="fade-right")
         p De las cuatro variables a considerar en una matriz DOFA, dos de ellas son internas (Fortalezas y Debilidades), las cuales se pueden intervenir directamente, y dos son externas (Oportunidades y Amenazas), que solo se pueden intervenir alterando internamente los aspectos detectados. 
       .col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 9
+          h5 Tabla 1
           span - Matriz DOFA
         .tabla-b
           table
@@ -95,7 +95,7 @@
         p La matriz se construye a partir del diagnóstico del análisis de los factores, logrando generar estrategias, las cuales se obtienen de combinar puntos positivos (fortalezas) con factores internos (oportunidades) y factores externos (amenazas) (FO y FA) y de la combinación de los puntos negativos (debilidades) con factores internos (oportunidades) y factores externos (amenazas) (DO y DA, respectivamente).
       .col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 10
+          h5 Tabla 2
           span - Indicadores para construir la matriz DOFA
         .tabla-b
           table
@@ -131,7 +131,7 @@
                   img(src='@/assets/curso/tema5/img1.jpg', alt='hombre carga Cajas')
             .col-lg-9
               .bloque-texto-a__texto.p-4.lila-color 
-                p.mb-0 A continuación, se enuncia una situación práctica que resulta en una actividad didáctica como estudio de casos, con el fin de fortalecer la comprensión de las leyes del mercado y afianzar el manejo de simulaciones de escenarios de gestión integral de transporte. Por favor, analice el caso y aporte soluciones a la situación planteada. El material puede consultarlo en el anexo correspondiente.
+                p.mb-0 A continuación, se enuncia una situación práctica que resulta en una actividad didáctica como estudio de casos, con el fin de fortalecer la comprensión de las leyes del mercado y afianzar el manejo de simulaciones de escenarios de gestión integral de transporte. Por favor, analice el caso y aporte soluciones a la situación planteada.
 </template>
 
 <script>

@@ -15,14 +15,14 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-11
-        .bloque-texto-a.color-secundario2.mb-5.p-2.py-0
+        .bloque-texto-a.color-secundario2.mb-5
           .row.m-0.align-items-end.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
               .wrap-ap
                 figure.pos
                   img(src='@/assets/curso/tema4/img1.jpg', alt='Cajas')
             .col-lg-10
-              .bloque-texto-a__texto.px-2.py-3.blanco-color.mb-2
+              .bloque-texto-a__texto.px-3.py-3.blanco-color.mb-3
                 .row 
                   .col-lg-1
                     span
@@ -30,19 +30,19 @@
                     ul.lista-ul--color.mb-0
                       li 
                         i.fas.fa-angle-right
-                        | Se denomina oferta inelástica cuando la razón es menor que uno. 
+                        p.mb-0 Se denomina oferta inelástica cuando la razón es menor que uno. 
                       li 
                         i.fas.fa-angle-right
-                        | Se denomina oferta elástica cuando la razón es mayor que uno. 
+                        p.mb-0 Se denomina oferta elástica cuando la razón es mayor que uno. 
                       li 
                         i.fas.fa-angle-right
-                        | Es perfectamente inelástica cuando su razón es cero lo que indica que la cantidad no cambia con la variación en el precio.
+                        p.mb-0 Es perfectamente inelástica cuando su razón es cero lo que indica que la cantidad no cambia con la variación en el precio.
                       li 
                         i.fas.fa-angle-right
-                        | Unitaria cuando la razón es uno.
+                        p.mb-0 Unitaria cuando la razón es uno.
                       li 
                         i.fas.fa-angle-right
-                        | Perfectamente elástica cuando la razón tiende al infinito, lo que significa que, ante un incremento pequeño en el precio, se genera una disminución infinitamente grande en la cantidad ofrecida.
+                        p.mb-0 Perfectamente elástica cuando la razón tiende al infinito, lo que significa que, ante un incremento pequeño en el precio, se genera una disminución infinitamente grande en la cantidad ofrecida.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
@@ -65,8 +65,8 @@
               td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Variaciones
               td.text-center.bordetabla Var. %Q = 0
               td.text-center.bordetabla Var. % Q < Var. % P
-              td.text-cente.bordetablar Var. % Q < Var. % P
-              td.text-center.bordetabla Var. % Q < Var. % P
+              td.text-cente.bordetabla Var. % Q = Var. % P
+              td.text-center.bordetabla Var. % Q > Var. % P
               td.text-center.bordetabla Var. % P= 0
             tr(style='background-color: #FFFFFF')
               td.h4.text-center.bordetabla(style='background-color: #FFDCAC') Ep

@@ -131,7 +131,15 @@
                   img(src='@/assets/curso/tema5/img1.jpg', alt='hombre carga Cajas')
             .col-lg-9
               .bloque-texto-a__texto.p-4.lila-color 
-                p.mb-0 A continuación, se enuncia una situación práctica que resulta en una actividad didáctica como estudio de casos, con el fin de fortalecer la comprensión de las leyes del mercado y afianzar el manejo de simulaciones de escenarios de gestión integral de transporte. Por favor, analice el caso y aporte soluciones a la situación planteada.
+                p.mb-4 A continuación, se enuncia una situación práctica que resulta en una actividad didáctica como estudio de casos, con el fin de fortalecer la comprensión de las leyes del mercado y afianzar el manejo de simulaciones de escenarios de gestión integral de transporte. Por favor, analice el caso y aporte soluciones a la situación planteada. El material puede consultarlo en el anexo correspondiente.
+
+                .row 
+                  .col-lg-6
+                    a.anexo.mb-3(:href="obtenerLink('downloads/Anexoestudio.pdf')" target="_blank")
+                      .anexo__icono
+                        img(src="@/assets/template/icono-pdf.svg")
+                      .anexo__texto
+                        p <b>Anexo.</b> ESTUDIO DE CASO.
 </template>
 
 <script>
